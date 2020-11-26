@@ -1,0 +1,25 @@
+- name: Getting Started
+  href: getting_started.md
+
+- name: Ways of Adding Locations
+  href: locations/adding_locations.md
+  
+- name: Location Types
+  href: locations/location_types.md
+
+- name: Structure of Vour
+  href: structure_of_vour.md
+
+# - name: Short Q&A
+#   href: q&a.md
+
+# NOTE
+# A topic with multiple articles:
+# Example : https://github.com/dotnet/docfx/blob/dev/Documentation/tutorial/toc.yml
+# Short example:
+# - name: Getting Started
+  # items:
+  # - name: Quickstart
+  #   href: getting_started.md
+  # - name: Notes
+  #   href: docfx.exe_user_manual.md
