@@ -1,4 +1,0 @@
----
-title: Vour
-documentType: index
----

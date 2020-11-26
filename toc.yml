@@ -1,8 +1,0 @@
-- name: Manual
-  href: manual/
-  homepage: manual/getting_started.md
-- name: Scripting API
-  href: api/
-  homepage: api/index.md
-- name: Asset Store
-  href: https://assetstore.unity.com/
