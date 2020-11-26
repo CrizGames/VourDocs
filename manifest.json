@@ -1,0 +1,574 @@
+{
+  "homepages": [],
+  "source_base_path": "F:/Unity/Projekte/Vour - Virtual Tours/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.DesktopPlayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.DesktopPlayer.html",
+          "hash": "DkhFWq1mEwcB+crbLs86UQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.EditorTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.EditorTools.html",
+          "hash": "KqFrsn2by4L1g6IgRFaokQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.EmptyLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.EmptyLocation.html",
+          "hash": "5PRN6BFVQa2nDxlSjeibsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.ImageLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.ImageLocation.html",
+          "hash": "Z1DvpF3rv2sG/rsXQXoxkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.InfoPoint.InfoPanelImageType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.InfoPoint.InfoPanelImageType.html",
+          "hash": "HaBuH8T9YzYqSpVfLLdDiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.InfoPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.InfoPoint.html",
+          "hash": "QwY5Kw8zUuzqbukxVNIS8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.InfoPointEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.InfoPointEditor.html",
+          "hash": "LdvlXKYGreGjx+134H7IZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.Interactable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.Interactable.html",
+          "hash": "kqsen3KztWzaVxgOYXsnvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.Location.LocationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.Location.LocationType.html",
+          "hash": "HzdghzCypze8UlWw7TInAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.Location.VideoType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.Location.VideoType.html",
+          "hash": "jkmJIAnwr7u1B3gJYNV1sQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.Location._3DLayout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.Location._3DLayout.html",
+          "hash": "q8iF+ei7lA8oC7tlDGC1Ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.Location.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.Location.html",
+          "hash": "6cgpUI7t1fZmJ6nqNp+wJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.LocationBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.LocationBase.html",
+          "hash": "IEA+eE41xdcDDo7PVXiZkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.LocationEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.LocationEditor.html",
+          "hash": "phGWOuQWQBdJoXtph2X3ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.LocationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.LocationManager.html",
+          "hash": "W3+R9CupmMHdPOAMLGsjRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.LocationManagerEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.LocationManagerEditor.html",
+          "hash": "iUTOSddDABPehWAzaPbu5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.MediaLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.MediaLocation.html",
+          "hash": "pE+4xqHnWOdcPExkG017Xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.OculusPlayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.OculusPlayer.html",
+          "hash": "o/2hLUYuW1P2B6MZDuWavg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.Player.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.Player.html",
+          "hash": "D4YVDKgliSrKjhYbWF6EIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.PlayerBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.PlayerBase.html",
+          "hash": "9Y3A2NZisUc8a6NZhB12fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.PlayerEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.PlayerEditor.html",
+          "hash": "i7IYs0OnkGvxezzhb5EQaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.SceneLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.SceneLocation.html",
+          "hash": "0SFelSyEff2RJYnE/g0cMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.TeleportArea.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.TeleportArea.html",
+          "hash": "JasfbjDrL19ojLAxwEOmeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.TeleportPoint.TeleportType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.TeleportPoint.TeleportType.html",
+          "hash": "vUZTDIZOeJ7d9+0a5wLPEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.TeleportPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.TeleportPoint.html",
+          "hash": "4LzlaAFEwfWoKNuF+4yXlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.TeleportPointEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.TeleportPointEditor.html",
+          "hash": "y7eWSNACMCRLZPShB81Adg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.VideoLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.VideoLocation.html",
+          "hash": "QUDZrLAz06721cCed9+Vkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Vour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Vour.html",
+          "hash": "CGs8ZHjXAjZeTPNK1c2Dgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "SPKeIewuY8MDp/+uYzwqFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Lge7vuhcHcMO5iahBsBfTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create_add.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/create_add.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/info_point.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/info_point.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/location_manager_add.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/location_manager_add.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/teleport_point.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/teleport_point.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/tools_add.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/tools_add.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "index",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "0jTPrSWIX9tp+p/pkmsGzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/getting_started.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/getting_started.html",
+          "hash": "O7eO7JwKfEGBWtoU+Wm+4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/locations/adding_locations.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/locations/adding_locations.html",
+          "hash": "oG7mDpcJN67a5EDnSMfMFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/locations/location_types.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/locations/location_types.html",
+          "hash": "9pQvvSUL9ehsUZatRnE+bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/q&a.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/q&a.html",
+          "hash": "ff5sAo5h+pjezIvbvL2dBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/structure_of_vour.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/structure_of_vour.html",
+          "hash": "dowPt5jhgUdWQatgbaRPBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "HJMVpGMoM6w475QGdg178w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "7LMYrK6vNAlGWAnSX3RRCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 7,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 28,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

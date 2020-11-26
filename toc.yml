@@ -1,6 +1,0 @@
-- name: Manual
-  href: manual/
-  homepage: manual/quickstart.md
-- name: Scripting API
-  href: api/
-  homepage: api/index.md
