@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "F:/Programming/GitHubProjects/VourDocs",
+  "source_base_path": "F:/Unity/Projekte/Vour - Virtual Tours/docfx_project",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.DesktopPlayer.html",
-          "hash": "DkhFWq1mEwcB+crbLs86UQ=="
+          "hash": "LZyCVRY7mKIPyRhGRKdz+A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.EditorTools.html",
-          "hash": "KqFrsn2by4L1g6IgRFaokQ=="
+          "hash": "Ha45Nn6/pD22UCc0HM9EYg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.EmptyLocation.html",
-          "hash": "5PRN6BFVQa2nDxlSjeibsg=="
+          "hash": "TRl4gEqMp0fBcAyoikhBag=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.ImageLocation.html",
-          "hash": "Z1DvpF3rv2sG/rsXQXoxkg=="
+          "hash": "0MyvI4RGiy8uFRnrlMb/KQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.InfoPoint.InfoPanelImageType.html",
-          "hash": "HaBuH8T9YzYqSpVfLLdDiQ=="
+          "hash": "fgd5wSQ/WH92sBE1H1n4xA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -69,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.InfoPoint.html",
-          "hash": "QwY5Kw8zUuzqbukxVNIS8g=="
+          "hash": "ofh2joXbBh+BH3l/2FZ6UQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -81,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.InfoPointEditor.html",
-          "hash": "LdvlXKYGreGjx+134H7IZg=="
+          "hash": "oTsCuAx6zpjh8uncPFTvcA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -93,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.Interactable.html",
-          "hash": "kqsen3KztWzaVxgOYXsnvQ=="
+          "hash": "B3mNpOchxtCYgzjZ42gWWA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -105,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.Location.LocationType.html",
-          "hash": "HzdghzCypze8UlWw7TInAg=="
+          "hash": "3c3xYNa1Fhx7y2VttlSwFw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -117,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.Location.VideoType.html",
-          "hash": "jkmJIAnwr7u1B3gJYNV1sQ=="
+          "hash": "697/agjsPtGEtqsCfUmxZA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -129,10 +129,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.Location._3DLayout.html",
-          "hash": "q8iF+ei7lA8oC7tlDGC1Ug=="
+          "hash": "8vA/dbuqAGD8RCHxoWB9Mw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -141,10 +141,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.Location.html",
-          "hash": "6cgpUI7t1fZmJ6nqNp+wJg=="
+          "hash": "BZoxwQaJwnc1ZY3GypG2hw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -153,10 +153,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.LocationBase.html",
-          "hash": "IEA+eE41xdcDDo7PVXiZkg=="
+          "hash": "OY0enIViV5XBHJQ7i9mqHg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -165,10 +165,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.LocationEditor.html",
-          "hash": "phGWOuQWQBdJoXtph2X3ng=="
+          "hash": "EQm9sjiovwS10B8tCm4xtw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -177,10 +177,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.LocationManager.html",
-          "hash": "W3+R9CupmMHdPOAMLGsjRg=="
+          "hash": "bPQZqBLWJUgNHV/dN9ZDmg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -189,10 +189,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.LocationManagerEditor.html",
-          "hash": "iUTOSddDABPehWAzaPbu5A=="
+          "hash": "Wfw/HgI7ZPGBlTvcNnvZWw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -201,10 +201,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.MediaLocation.html",
-          "hash": "pE+4xqHnWOdcPExkG017Xw=="
+          "hash": "9JHMjQ8JemQ83VZuo4s3sQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -213,10 +213,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.OculusPlayer.html",
-          "hash": "o/2hLUYuW1P2B6MZDuWavg=="
+          "hash": "1JJMSl1NCSne27TxUUxXWQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -225,10 +225,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.Player.html",
-          "hash": "D4YVDKgliSrKjhYbWF6EIA=="
+          "hash": "tlvbdCG5EzzDw1H73C6i0g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -237,10 +237,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.PlayerBase.html",
-          "hash": "9Y3A2NZisUc8a6NZhB12fg=="
+          "hash": "mH2YE4oVZYbp9PCzZ1QYkw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -249,10 +249,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.PlayerEditor.html",
-          "hash": "i7IYs0OnkGvxezzhb5EQaA=="
+          "hash": "x/zFzUaGK27Kb7gR0hzSUQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -261,10 +261,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.SceneLocation.html",
-          "hash": "0SFelSyEff2RJYnE/g0cMQ=="
+          "hash": "izsCUvFNuDChqS+U/VA7Lw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -273,10 +273,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.TeleportArea.html",
-          "hash": "JasfbjDrL19ojLAxwEOmeg=="
+          "hash": "uFiVP/f1Cz1L+NjN2I0Qyg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -285,10 +285,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.TeleportPoint.TeleportType.html",
-          "hash": "vUZTDIZOeJ7d9+0a5wLPEQ=="
+          "hash": "e+C3FagTfZSmg6AADOKWWw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -297,10 +297,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.TeleportPoint.html",
-          "hash": "4LzlaAFEwfWoKNuF+4yXlQ=="
+          "hash": "Fa2EGp8ec0XjOHj+2x0cPQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -309,10 +309,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.TeleportPointEditor.html",
-          "hash": "y7eWSNACMCRLZPShB81Adg=="
+          "hash": "z/CuJyLjkR5SHOaeDXkljA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -321,10 +321,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.VideoLocation.html",
-          "hash": "QUDZrLAz06721cCed9+Vkg=="
+          "hash": "av/N7T5BLnjqm+Si1xwAKw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -333,10 +333,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Vour.html",
-          "hash": "CGs8ZHjXAjZeTPNK1c2Dgg=="
+          "hash": "uacw9WlWbStTjgYpsnKOjw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -345,10 +345,10 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "SPKeIewuY8MDp/+uYzwqFA=="
+          "hash": "9fl0QbtJpZ7ZP9RqLj5CUw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -427,7 +427,7 @@
           "hash": "0jTPrSWIX9tp+p/pkmsGzQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -436,10 +436,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/getting_started.html",
-          "hash": "O7eO7JwKfEGBWtoU+Wm+4w=="
+          "hash": "9g63l2Oq25JH776A2VCF3Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -448,10 +448,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/locations/adding_locations.html",
-          "hash": "oG7mDpcJN67a5EDnSMfMFA=="
+          "hash": "U+VfEl7c/HWYVF5zZjaeFQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -460,10 +460,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/locations/location_types.html",
-          "hash": "9pQvvSUL9ehsUZatRnE+bw=="
+          "hash": "rWdCNZomJF+v9Jdsc9N07Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -472,10 +472,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/q&a.html",
-          "hash": "ff5sAo5h+pjezIvbvL2dBg=="
+          "hash": "sU3GF+VnaLSqTZ49JeqVLA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -484,10 +484,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/structure_of_vour.html",
-          "hash": "dowPt5jhgUdWQatgbaRPBQ=="
+          "hash": "BZvj+FPedAVtBQbZal/Xzg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -508,7 +508,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "7LMYrK6vNAlGWAnSX3RRCw=="
+          "hash": "iXGPElnbyLleIeIiibpugg=="
         }
       },
       "is_incremental": false,
@@ -518,25 +518,23 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 7,
-          "skipped_file_count": 0
+          "skipped_file_count": 7
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 28,
-          "skipped_file_count": 0
+          "skipped_file_count": 28
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
@@ -556,8 +554,8 @@
     },
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0
