@@ -1171,6 +1171,19 @@ references:
   isSpec: "True"
   fullName: Vour.LocationManagerEditor.OnInspectorGUI
   nameWithType: LocationManagerEditor.OnInspectorGUI
+- uid: Vour.LocationManagerEditor.OpenOnlineDocs
+  name: OpenOnlineDocs()
+  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_OpenOnlineDocs
+  commentId: M:Vour.LocationManagerEditor.OpenOnlineDocs
+  fullName: Vour.LocationManagerEditor.OpenOnlineDocs()
+  nameWithType: LocationManagerEditor.OpenOnlineDocs()
+- uid: Vour.LocationManagerEditor.OpenOnlineDocs*
+  name: OpenOnlineDocs
+  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_OpenOnlineDocs_
+  commentId: Overload:Vour.LocationManagerEditor.OpenOnlineDocs
+  isSpec: "True"
+  fullName: Vour.LocationManagerEditor.OpenOnlineDocs
+  nameWithType: LocationManagerEditor.OpenOnlineDocs
 - uid: Vour.MediaLocation
   name: MediaLocation
   href: api/Vour.MediaLocation.html
