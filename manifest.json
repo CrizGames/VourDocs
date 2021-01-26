@@ -432,11 +432,23 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "manual/components_of_vour.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/components_of_vour.html",
+          "hash": "rJFAHIklYiR8AgzF/+74iA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "manual/getting_started.md",
       "output": {
         ".html": {
           "relative_path": "manual/getting_started.html",
-          "hash": "zB7dDf11aF0VPlaYdkuwoA=="
+          "hash": "pTxrqxYisNGXa4IVEU4acw=="
         }
       },
       "is_incremental": false,
@@ -479,24 +491,12 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "manual/structure_of_vour.md",
-      "output": {
-        ".html": {
-          "relative_path": "manual/structure_of_vour.html",
-          "hash": "pXoBOevjaOLipoqSZn0pSQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Toc",
       "source_relative_path": "manual/toc.yml",
       "output": {
         ".html": {
           "relative_path": "manual/toc.html",
-          "hash": "R4yblb83+ot5WItGvzqymg=="
+          "hash": "EIhcjExcqoOuzf5zE5zyqw=="
         }
       },
       "is_incremental": false,
