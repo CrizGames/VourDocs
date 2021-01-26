@@ -436,7 +436,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/getting_started.html",
-          "hash": "9g63l2Oq25JH776A2VCF3Q=="
+          "hash": "vfuj67Viw7UGd/RQqhBxNg=="
         }
       },
       "is_incremental": true,
@@ -484,10 +484,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/structure_of_vour.html",
-          "hash": "BZvj+FPedAVtBQbZal/Xzg=="
+          "hash": "pXoBOevjaOLipoqSZn0pSQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -528,7 +528,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 7,
-          "skipped_file_count": 7
+          "skipped_file_count": 6
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
