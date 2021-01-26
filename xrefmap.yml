@@ -503,6 +503,12 @@ references:
   commentId: F:Vour.Location.LocationType.Video3D360
   fullName: Vour.Location.LocationType.Video3D360
   nameWithType: Location.LocationType.Video3D360
+- uid: Vour.Location.prepareVideo
+  name: prepareVideo
+  href: api/Vour.Location.html#Vour_Location_prepareVideo
+  commentId: F:Vour.Location.prepareVideo
+  fullName: Vour.Location.prepareVideo
+  nameWithType: Location.prepareVideo
 - uid: Vour.Location.SceneName
   name: SceneName
   href: api/Vour.Location.html#Vour_Location_SceneName
