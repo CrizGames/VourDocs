@@ -1,1751 +1,1312 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: Vour
-  name: Vour
-  href: api/Vour.html
-  commentId: N:Vour
-  fullName: Vour
-  nameWithType: Vour
-- uid: Vour.DesktopPlayer
+- uid: CrizGames.Vour
+  name: CrizGames.Vour
+  href: api/CrizGames.Vour.html
+  commentId: N:CrizGames.Vour
+  fullName: CrizGames.Vour
+  nameWithType: CrizGames.Vour
+- uid: CrizGames.Vour.DesktopPlayer
   name: DesktopPlayer
-  href: api/Vour.DesktopPlayer.html
-  commentId: T:Vour.DesktopPlayer
-  fullName: Vour.DesktopPlayer
+  href: api/CrizGames.Vour.DesktopPlayer.html
+  commentId: T:CrizGames.Vour.DesktopPlayer
+  fullName: CrizGames.Vour.DesktopPlayer
   nameWithType: DesktopPlayer
-- uid: Vour.DesktopPlayer.Init
+- uid: CrizGames.Vour.DesktopPlayer.Init
   name: Init()
-  href: api/Vour.DesktopPlayer.html#Vour_DesktopPlayer_Init
-  commentId: M:Vour.DesktopPlayer.Init
-  fullName: Vour.DesktopPlayer.Init()
+  href: api/CrizGames.Vour.DesktopPlayer.html#CrizGames_Vour_DesktopPlayer_Init
+  commentId: M:CrizGames.Vour.DesktopPlayer.Init
+  fullName: CrizGames.Vour.DesktopPlayer.Init()
   nameWithType: DesktopPlayer.Init()
-- uid: Vour.DesktopPlayer.Init*
+- uid: CrizGames.Vour.DesktopPlayer.Init*
   name: Init
-  href: api/Vour.DesktopPlayer.html#Vour_DesktopPlayer_Init_
-  commentId: Overload:Vour.DesktopPlayer.Init
+  href: api/CrizGames.Vour.DesktopPlayer.html#CrizGames_Vour_DesktopPlayer_Init_
+  commentId: Overload:CrizGames.Vour.DesktopPlayer.Init
   isSpec: "True"
-  fullName: Vour.DesktopPlayer.Init
+  fullName: CrizGames.Vour.DesktopPlayer.Init
   nameWithType: DesktopPlayer.Init
-- uid: Vour.DesktopPlayer.LateUpdate
+- uid: CrizGames.Vour.DesktopPlayer.LateUpdate
   name: LateUpdate()
-  href: api/Vour.DesktopPlayer.html#Vour_DesktopPlayer_LateUpdate
-  commentId: M:Vour.DesktopPlayer.LateUpdate
-  fullName: Vour.DesktopPlayer.LateUpdate()
+  href: api/CrizGames.Vour.DesktopPlayer.html#CrizGames_Vour_DesktopPlayer_LateUpdate
+  commentId: M:CrizGames.Vour.DesktopPlayer.LateUpdate
+  fullName: CrizGames.Vour.DesktopPlayer.LateUpdate()
   nameWithType: DesktopPlayer.LateUpdate()
-- uid: Vour.DesktopPlayer.LateUpdate*
+- uid: CrizGames.Vour.DesktopPlayer.LateUpdate*
   name: LateUpdate
-  href: api/Vour.DesktopPlayer.html#Vour_DesktopPlayer_LateUpdate_
-  commentId: Overload:Vour.DesktopPlayer.LateUpdate
+  href: api/CrizGames.Vour.DesktopPlayer.html#CrizGames_Vour_DesktopPlayer_LateUpdate_
+  commentId: Overload:CrizGames.Vour.DesktopPlayer.LateUpdate
   isSpec: "True"
-  fullName: Vour.DesktopPlayer.LateUpdate
+  fullName: CrizGames.Vour.DesktopPlayer.LateUpdate
   nameWithType: DesktopPlayer.LateUpdate
-- uid: Vour.DesktopPlayer.Look
+- uid: CrizGames.Vour.DesktopPlayer.Look
   name: Look()
-  href: api/Vour.DesktopPlayer.html#Vour_DesktopPlayer_Look
-  commentId: M:Vour.DesktopPlayer.Look
-  fullName: Vour.DesktopPlayer.Look()
+  href: api/CrizGames.Vour.DesktopPlayer.html#CrizGames_Vour_DesktopPlayer_Look
+  commentId: M:CrizGames.Vour.DesktopPlayer.Look
+  fullName: CrizGames.Vour.DesktopPlayer.Look()
   nameWithType: DesktopPlayer.Look()
-- uid: Vour.DesktopPlayer.Look*
+- uid: CrizGames.Vour.DesktopPlayer.Look*
   name: Look
-  href: api/Vour.DesktopPlayer.html#Vour_DesktopPlayer_Look_
-  commentId: Overload:Vour.DesktopPlayer.Look
+  href: api/CrizGames.Vour.DesktopPlayer.html#CrizGames_Vour_DesktopPlayer_Look_
+  commentId: Overload:CrizGames.Vour.DesktopPlayer.Look
   isSpec: "True"
-  fullName: Vour.DesktopPlayer.Look
+  fullName: CrizGames.Vour.DesktopPlayer.Look
   nameWithType: DesktopPlayer.Look
-- uid: Vour.DesktopPlayer.MouseSensitivity
+- uid: CrizGames.Vour.DesktopPlayer.MouseSensitivity
   name: MouseSensitivity
-  href: api/Vour.DesktopPlayer.html#Vour_DesktopPlayer_MouseSensitivity
-  commentId: F:Vour.DesktopPlayer.MouseSensitivity
-  fullName: Vour.DesktopPlayer.MouseSensitivity
+  href: api/CrizGames.Vour.DesktopPlayer.html#CrizGames_Vour_DesktopPlayer_MouseSensitivity
+  commentId: F:CrizGames.Vour.DesktopPlayer.MouseSensitivity
+  fullName: CrizGames.Vour.DesktopPlayer.MouseSensitivity
   nameWithType: DesktopPlayer.MouseSensitivity
-- uid: Vour.DesktopPlayer.ResetRotation
+- uid: CrizGames.Vour.DesktopPlayer.ResetRotation
   name: ResetRotation()
-  href: api/Vour.DesktopPlayer.html#Vour_DesktopPlayer_ResetRotation
-  commentId: M:Vour.DesktopPlayer.ResetRotation
-  fullName: Vour.DesktopPlayer.ResetRotation()
+  href: api/CrizGames.Vour.DesktopPlayer.html#CrizGames_Vour_DesktopPlayer_ResetRotation
+  commentId: M:CrizGames.Vour.DesktopPlayer.ResetRotation
+  fullName: CrizGames.Vour.DesktopPlayer.ResetRotation()
   nameWithType: DesktopPlayer.ResetRotation()
-- uid: Vour.DesktopPlayer.ResetRotation*
+- uid: CrizGames.Vour.DesktopPlayer.ResetRotation*
   name: ResetRotation
-  href: api/Vour.DesktopPlayer.html#Vour_DesktopPlayer_ResetRotation_
-  commentId: Overload:Vour.DesktopPlayer.ResetRotation
+  href: api/CrizGames.Vour.DesktopPlayer.html#CrizGames_Vour_DesktopPlayer_ResetRotation_
+  commentId: Overload:CrizGames.Vour.DesktopPlayer.ResetRotation
   isSpec: "True"
-  fullName: Vour.DesktopPlayer.ResetRotation
+  fullName: CrizGames.Vour.DesktopPlayer.ResetRotation
   nameWithType: DesktopPlayer.ResetRotation
-- uid: Vour.EditorTools
-  name: EditorTools
-  href: api/Vour.EditorTools.html
-  commentId: T:Vour.EditorTools
-  fullName: Vour.EditorTools
-  nameWithType: EditorTools
-- uid: Vour.EditorTools.GetAssetObject*
-  name: GetAssetObject
-  href: api/Vour.EditorTools.html#Vour_EditorTools_GetAssetObject_
-  commentId: Overload:Vour.EditorTools.GetAssetObject
-  isSpec: "True"
-  fullName: Vour.EditorTools.GetAssetObject
-  nameWithType: EditorTools.GetAssetObject
-- uid: Vour.EditorTools.GetAssetObject``1(System.String)
-  name: GetAssetObject<T>(String)
-  href: api/Vour.EditorTools.html#Vour_EditorTools_GetAssetObject__1_System_String_
-  commentId: M:Vour.EditorTools.GetAssetObject``1(System.String)
-  name.vb: GetAssetObject(Of T)(String)
-  fullName: Vour.EditorTools.GetAssetObject<T>(System.String)
-  fullName.vb: Vour.EditorTools.GetAssetObject(Of T)(System.String)
-  nameWithType: EditorTools.GetAssetObject<T>(String)
-  nameWithType.vb: EditorTools.GetAssetObject(Of T)(String)
-- uid: Vour.EditorTools.GetAssetPath(System.String,System.String,System.Boolean@,System.String[])
-  name: GetAssetPath(String, String, out Boolean, String[])
-  href: api/Vour.EditorTools.html#Vour_EditorTools_GetAssetPath_System_String_System_String_System_Boolean__System_String___
-  commentId: M:Vour.EditorTools.GetAssetPath(System.String,System.String,System.Boolean@,System.String[])
-  name.vb: GetAssetPath(String, String, ByRef Boolean, String())
-  fullName: Vour.EditorTools.GetAssetPath(System.String, System.String, out System.Boolean, System.String[])
-  fullName.vb: Vour.EditorTools.GetAssetPath(System.String, System.String, ByRef System.Boolean, System.String())
-  nameWithType: EditorTools.GetAssetPath(String, String, out Boolean, String[])
-  nameWithType.vb: EditorTools.GetAssetPath(String, String, ByRef Boolean, String())
-- uid: Vour.EditorTools.GetAssetPath*
-  name: GetAssetPath
-  href: api/Vour.EditorTools.html#Vour_EditorTools_GetAssetPath_
-  commentId: Overload:Vour.EditorTools.GetAssetPath
-  isSpec: "True"
-  fullName: Vour.EditorTools.GetAssetPath
-  nameWithType: EditorTools.GetAssetPath
-- uid: Vour.EditorTools.GetPrefabPath(System.String,System.Boolean@,System.String[])
-  name: GetPrefabPath(String, out Boolean, String[])
-  href: api/Vour.EditorTools.html#Vour_EditorTools_GetPrefabPath_System_String_System_Boolean__System_String___
-  commentId: M:Vour.EditorTools.GetPrefabPath(System.String,System.Boolean@,System.String[])
-  name.vb: GetPrefabPath(String, ByRef Boolean, String())
-  fullName: Vour.EditorTools.GetPrefabPath(System.String, out System.Boolean, System.String[])
-  fullName.vb: Vour.EditorTools.GetPrefabPath(System.String, ByRef System.Boolean, System.String())
-  nameWithType: EditorTools.GetPrefabPath(String, out Boolean, String[])
-  nameWithType.vb: EditorTools.GetPrefabPath(String, ByRef Boolean, String())
-- uid: Vour.EditorTools.GetPrefabPath*
-  name: GetPrefabPath
-  href: api/Vour.EditorTools.html#Vour_EditorTools_GetPrefabPath_
-  commentId: Overload:Vour.EditorTools.GetPrefabPath
-  isSpec: "True"
-  fullName: Vour.EditorTools.GetPrefabPath
-  nameWithType: EditorTools.GetPrefabPath
-- uid: Vour.EditorTools.GetScenePath(System.String,System.Boolean@,System.String[])
-  name: GetScenePath(String, out Boolean, String[])
-  href: api/Vour.EditorTools.html#Vour_EditorTools_GetScenePath_System_String_System_Boolean__System_String___
-  commentId: M:Vour.EditorTools.GetScenePath(System.String,System.Boolean@,System.String[])
-  name.vb: GetScenePath(String, ByRef Boolean, String())
-  fullName: Vour.EditorTools.GetScenePath(System.String, out System.Boolean, System.String[])
-  fullName.vb: Vour.EditorTools.GetScenePath(System.String, ByRef System.Boolean, System.String())
-  nameWithType: EditorTools.GetScenePath(String, out Boolean, String[])
-  nameWithType.vb: EditorTools.GetScenePath(String, ByRef Boolean, String())
-- uid: Vour.EditorTools.GetScenePath*
-  name: GetScenePath
-  href: api/Vour.EditorTools.html#Vour_EditorTools_GetScenePath_
-  commentId: Overload:Vour.EditorTools.GetScenePath
-  isSpec: "True"
-  fullName: Vour.EditorTools.GetScenePath
-  nameWithType: EditorTools.GetScenePath
-- uid: Vour.EditorTools.IsInPrefabView(UnityEngine.GameObject)
-  name: IsInPrefabView(GameObject)
-  href: api/Vour.EditorTools.html#Vour_EditorTools_IsInPrefabView_UnityEngine_GameObject_
-  commentId: M:Vour.EditorTools.IsInPrefabView(UnityEngine.GameObject)
-  fullName: Vour.EditorTools.IsInPrefabView(UnityEngine.GameObject)
-  nameWithType: EditorTools.IsInPrefabView(GameObject)
-- uid: Vour.EditorTools.IsInPrefabView*
-  name: IsInPrefabView
-  href: api/Vour.EditorTools.html#Vour_EditorTools_IsInPrefabView_
-  commentId: Overload:Vour.EditorTools.IsInPrefabView
-  isSpec: "True"
-  fullName: Vour.EditorTools.IsInPrefabView
-  nameWithType: EditorTools.IsInPrefabView
-- uid: Vour.EmptyLocation
+- uid: CrizGames.Vour.EmptyLocation
   name: EmptyLocation
-  href: api/Vour.EmptyLocation.html
-  commentId: T:Vour.EmptyLocation
-  fullName: Vour.EmptyLocation
+  href: api/CrizGames.Vour.EmptyLocation.html
+  commentId: T:CrizGames.Vour.EmptyLocation
+  fullName: CrizGames.Vour.EmptyLocation
   nameWithType: EmptyLocation
-- uid: Vour.EmptyLocation.UpdateLocation
+- uid: CrizGames.Vour.EmptyLocation.UpdateLocation
   name: UpdateLocation()
-  href: api/Vour.EmptyLocation.html#Vour_EmptyLocation_UpdateLocation
-  commentId: M:Vour.EmptyLocation.UpdateLocation
-  fullName: Vour.EmptyLocation.UpdateLocation()
+  href: api/CrizGames.Vour.EmptyLocation.html#CrizGames_Vour_EmptyLocation_UpdateLocation
+  commentId: M:CrizGames.Vour.EmptyLocation.UpdateLocation
+  fullName: CrizGames.Vour.EmptyLocation.UpdateLocation()
   nameWithType: EmptyLocation.UpdateLocation()
-- uid: Vour.EmptyLocation.UpdateLocation*
+- uid: CrizGames.Vour.EmptyLocation.UpdateLocation*
   name: UpdateLocation
-  href: api/Vour.EmptyLocation.html#Vour_EmptyLocation_UpdateLocation_
-  commentId: Overload:Vour.EmptyLocation.UpdateLocation
+  href: api/CrizGames.Vour.EmptyLocation.html#CrizGames_Vour_EmptyLocation_UpdateLocation_
+  commentId: Overload:CrizGames.Vour.EmptyLocation.UpdateLocation
   isSpec: "True"
-  fullName: Vour.EmptyLocation.UpdateLocation
+  fullName: CrizGames.Vour.EmptyLocation.UpdateLocation
   nameWithType: EmptyLocation.UpdateLocation
-- uid: Vour.ImageLocation
+- uid: CrizGames.Vour.ImageLocation
   name: ImageLocation
-  href: api/Vour.ImageLocation.html
-  commentId: T:Vour.ImageLocation
-  fullName: Vour.ImageLocation
+  href: api/CrizGames.Vour.ImageLocation.html
+  commentId: T:CrizGames.Vour.ImageLocation
+  fullName: CrizGames.Vour.ImageLocation
   nameWithType: ImageLocation
-- uid: Vour.ImageLocation.UpdateLocation
+- uid: CrizGames.Vour.ImageLocation.UpdateLocation
   name: UpdateLocation()
-  href: api/Vour.ImageLocation.html#Vour_ImageLocation_UpdateLocation
-  commentId: M:Vour.ImageLocation.UpdateLocation
-  fullName: Vour.ImageLocation.UpdateLocation()
+  href: api/CrizGames.Vour.ImageLocation.html#CrizGames_Vour_ImageLocation_UpdateLocation
+  commentId: M:CrizGames.Vour.ImageLocation.UpdateLocation
+  fullName: CrizGames.Vour.ImageLocation.UpdateLocation()
   nameWithType: ImageLocation.UpdateLocation()
-- uid: Vour.ImageLocation.UpdateLocation*
+- uid: CrizGames.Vour.ImageLocation.UpdateLocation*
   name: UpdateLocation
-  href: api/Vour.ImageLocation.html#Vour_ImageLocation_UpdateLocation_
-  commentId: Overload:Vour.ImageLocation.UpdateLocation
+  href: api/CrizGames.Vour.ImageLocation.html#CrizGames_Vour_ImageLocation_UpdateLocation_
+  commentId: Overload:CrizGames.Vour.ImageLocation.UpdateLocation
   isSpec: "True"
-  fullName: Vour.ImageLocation.UpdateLocation
+  fullName: CrizGames.Vour.ImageLocation.UpdateLocation
   nameWithType: ImageLocation.UpdateLocation
-- uid: Vour.InfoPoint
+- uid: CrizGames.Vour.InfoPoint
   name: InfoPoint
-  href: api/Vour.InfoPoint.html
-  commentId: T:Vour.InfoPoint
-  fullName: Vour.InfoPoint
+  href: api/CrizGames.Vour.InfoPoint.html
+  commentId: T:CrizGames.Vour.InfoPoint
+  fullName: CrizGames.Vour.InfoPoint
   nameWithType: InfoPoint
-- uid: Vour.InfoPoint.Image
+- uid: CrizGames.Vour.InfoPoint.Image
   name: Image
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_Image
-  commentId: F:Vour.InfoPoint.Image
-  fullName: Vour.InfoPoint.Image
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_Image
+  commentId: F:CrizGames.Vour.InfoPoint.Image
+  fullName: CrizGames.Vour.InfoPoint.Image
   nameWithType: InfoPoint.Image
-- uid: Vour.InfoPoint.InfoPanelImageType
+- uid: CrizGames.Vour.InfoPoint.InfoPanelImageType
   name: InfoPoint.InfoPanelImageType
-  href: api/Vour.InfoPoint.InfoPanelImageType.html
-  commentId: T:Vour.InfoPoint.InfoPanelImageType
-  fullName: Vour.InfoPoint.InfoPanelImageType
+  href: api/CrizGames.Vour.InfoPoint.InfoPanelImageType.html
+  commentId: T:CrizGames.Vour.InfoPoint.InfoPanelImageType
+  fullName: CrizGames.Vour.InfoPoint.InfoPanelImageType
   nameWithType: InfoPoint.InfoPanelImageType
-- uid: Vour.InfoPoint.InfoPanelImageType.LeftImage
+- uid: CrizGames.Vour.InfoPoint.InfoPanelImageType.LeftImage
   name: LeftImage
-  href: api/Vour.InfoPoint.InfoPanelImageType.html#Vour_InfoPoint_InfoPanelImageType_LeftImage
-  commentId: F:Vour.InfoPoint.InfoPanelImageType.LeftImage
-  fullName: Vour.InfoPoint.InfoPanelImageType.LeftImage
+  href: api/CrizGames.Vour.InfoPoint.InfoPanelImageType.html#CrizGames_Vour_InfoPoint_InfoPanelImageType_LeftImage
+  commentId: F:CrizGames.Vour.InfoPoint.InfoPanelImageType.LeftImage
+  fullName: CrizGames.Vour.InfoPoint.InfoPanelImageType.LeftImage
   nameWithType: InfoPoint.InfoPanelImageType.LeftImage
-- uid: Vour.InfoPoint.InfoPanelImageType.RightImage
+- uid: CrizGames.Vour.InfoPoint.InfoPanelImageType.RightImage
   name: RightImage
-  href: api/Vour.InfoPoint.InfoPanelImageType.html#Vour_InfoPoint_InfoPanelImageType_RightImage
-  commentId: F:Vour.InfoPoint.InfoPanelImageType.RightImage
-  fullName: Vour.InfoPoint.InfoPanelImageType.RightImage
+  href: api/CrizGames.Vour.InfoPoint.InfoPanelImageType.html#CrizGames_Vour_InfoPoint_InfoPanelImageType_RightImage
+  commentId: F:CrizGames.Vour.InfoPoint.InfoPanelImageType.RightImage
+  fullName: CrizGames.Vour.InfoPoint.InfoPanelImageType.RightImage
   nameWithType: InfoPoint.InfoPanelImageType.RightImage
-- uid: Vour.InfoPoint.InitPanel
+- uid: CrizGames.Vour.InfoPoint.InitPanel
   name: InitPanel()
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_InitPanel
-  commentId: M:Vour.InfoPoint.InitPanel
-  fullName: Vour.InfoPoint.InitPanel()
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_InitPanel
+  commentId: M:CrizGames.Vour.InfoPoint.InitPanel
+  fullName: CrizGames.Vour.InfoPoint.InitPanel()
   nameWithType: InfoPoint.InitPanel()
-- uid: Vour.InfoPoint.InitPanel*
+- uid: CrizGames.Vour.InfoPoint.InitPanel*
   name: InitPanel
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_InitPanel_
-  commentId: Overload:Vour.InfoPoint.InitPanel
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_InitPanel_
+  commentId: Overload:CrizGames.Vour.InfoPoint.InitPanel
   isSpec: "True"
-  fullName: Vour.InfoPoint.InitPanel
+  fullName: CrizGames.Vour.InfoPoint.InitPanel
   nameWithType: InfoPoint.InitPanel
-- uid: Vour.InfoPoint.Interact
+- uid: CrizGames.Vour.InfoPoint.Interact
   name: Interact()
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_Interact
-  commentId: M:Vour.InfoPoint.Interact
-  fullName: Vour.InfoPoint.Interact()
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_Interact
+  commentId: M:CrizGames.Vour.InfoPoint.Interact
+  fullName: CrizGames.Vour.InfoPoint.Interact()
   nameWithType: InfoPoint.Interact()
-- uid: Vour.InfoPoint.Interact*
+- uid: CrizGames.Vour.InfoPoint.Interact*
   name: Interact
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_Interact_
-  commentId: Overload:Vour.InfoPoint.Interact
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_Interact_
+  commentId: Overload:CrizGames.Vour.InfoPoint.Interact
   isSpec: "True"
-  fullName: Vour.InfoPoint.Interact
+  fullName: CrizGames.Vour.InfoPoint.Interact
   nameWithType: InfoPoint.Interact
-- uid: Vour.InfoPoint.OnPointerOverObjEnter
+- uid: CrizGames.Vour.InfoPoint.OnPointerOverObjEnter
   name: OnPointerOverObjEnter()
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_OnPointerOverObjEnter
-  commentId: M:Vour.InfoPoint.OnPointerOverObjEnter
-  fullName: Vour.InfoPoint.OnPointerOverObjEnter()
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_OnPointerOverObjEnter
+  commentId: M:CrizGames.Vour.InfoPoint.OnPointerOverObjEnter
+  fullName: CrizGames.Vour.InfoPoint.OnPointerOverObjEnter()
   nameWithType: InfoPoint.OnPointerOverObjEnter()
-- uid: Vour.InfoPoint.OnPointerOverObjEnter*
+- uid: CrizGames.Vour.InfoPoint.OnPointerOverObjEnter*
   name: OnPointerOverObjEnter
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_OnPointerOverObjEnter_
-  commentId: Overload:Vour.InfoPoint.OnPointerOverObjEnter
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_OnPointerOverObjEnter_
+  commentId: Overload:CrizGames.Vour.InfoPoint.OnPointerOverObjEnter
   isSpec: "True"
-  fullName: Vour.InfoPoint.OnPointerOverObjEnter
+  fullName: CrizGames.Vour.InfoPoint.OnPointerOverObjEnter
   nameWithType: InfoPoint.OnPointerOverObjEnter
-- uid: Vour.InfoPoint.OnPointerOverObjExit
+- uid: CrizGames.Vour.InfoPoint.OnPointerOverObjExit
   name: OnPointerOverObjExit()
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_OnPointerOverObjExit
-  commentId: M:Vour.InfoPoint.OnPointerOverObjExit
-  fullName: Vour.InfoPoint.OnPointerOverObjExit()
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_OnPointerOverObjExit
+  commentId: M:CrizGames.Vour.InfoPoint.OnPointerOverObjExit
+  fullName: CrizGames.Vour.InfoPoint.OnPointerOverObjExit()
   nameWithType: InfoPoint.OnPointerOverObjExit()
-- uid: Vour.InfoPoint.OnPointerOverObjExit*
+- uid: CrizGames.Vour.InfoPoint.OnPointerOverObjExit*
   name: OnPointerOverObjExit
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_OnPointerOverObjExit_
-  commentId: Overload:Vour.InfoPoint.OnPointerOverObjExit
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_OnPointerOverObjExit_
+  commentId: Overload:CrizGames.Vour.InfoPoint.OnPointerOverObjExit
   isSpec: "True"
-  fullName: Vour.InfoPoint.OnPointerOverObjExit
+  fullName: CrizGames.Vour.InfoPoint.OnPointerOverObjExit
   nameWithType: InfoPoint.OnPointerOverObjExit
-- uid: Vour.InfoPoint.OpenCloseAnim(System.Boolean)
+- uid: CrizGames.Vour.InfoPoint.OpenCloseAnim(System.Boolean)
   name: OpenCloseAnim(Boolean)
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_OpenCloseAnim_System_Boolean_
-  commentId: M:Vour.InfoPoint.OpenCloseAnim(System.Boolean)
-  fullName: Vour.InfoPoint.OpenCloseAnim(System.Boolean)
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_OpenCloseAnim_System_Boolean_
+  commentId: M:CrizGames.Vour.InfoPoint.OpenCloseAnim(System.Boolean)
+  fullName: CrizGames.Vour.InfoPoint.OpenCloseAnim(System.Boolean)
   nameWithType: InfoPoint.OpenCloseAnim(Boolean)
-- uid: Vour.InfoPoint.OpenCloseAnim*
+- uid: CrizGames.Vour.InfoPoint.OpenCloseAnim*
   name: OpenCloseAnim
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_OpenCloseAnim_
-  commentId: Overload:Vour.InfoPoint.OpenCloseAnim
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_OpenCloseAnim_
+  commentId: Overload:CrizGames.Vour.InfoPoint.OpenCloseAnim
   isSpec: "True"
-  fullName: Vour.InfoPoint.OpenCloseAnim
+  fullName: CrizGames.Vour.InfoPoint.OpenCloseAnim
   nameWithType: InfoPoint.OpenCloseAnim
-- uid: Vour.InfoPoint.PanelType
+- uid: CrizGames.Vour.InfoPoint.PanelType
   name: PanelType
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_PanelType
-  commentId: F:Vour.InfoPoint.PanelType
-  fullName: Vour.InfoPoint.PanelType
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_PanelType
+  commentId: F:CrizGames.Vour.InfoPoint.PanelType
+  fullName: CrizGames.Vour.InfoPoint.PanelType
   nameWithType: InfoPoint.PanelType
-- uid: Vour.InfoPoint.Start
+- uid: CrizGames.Vour.InfoPoint.RotateInfoIconAndPanel
+  name: RotateInfoIconAndPanel()
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_RotateInfoIconAndPanel
+  commentId: M:CrizGames.Vour.InfoPoint.RotateInfoIconAndPanel
+  fullName: CrizGames.Vour.InfoPoint.RotateInfoIconAndPanel()
+  nameWithType: InfoPoint.RotateInfoIconAndPanel()
+- uid: CrizGames.Vour.InfoPoint.RotateInfoIconAndPanel*
+  name: RotateInfoIconAndPanel
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_RotateInfoIconAndPanel_
+  commentId: Overload:CrizGames.Vour.InfoPoint.RotateInfoIconAndPanel
+  isSpec: "True"
+  fullName: CrizGames.Vour.InfoPoint.RotateInfoIconAndPanel
+  nameWithType: InfoPoint.RotateInfoIconAndPanel
+- uid: CrizGames.Vour.InfoPoint.Start
   name: Start()
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_Start
-  commentId: M:Vour.InfoPoint.Start
-  fullName: Vour.InfoPoint.Start()
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_Start
+  commentId: M:CrizGames.Vour.InfoPoint.Start
+  fullName: CrizGames.Vour.InfoPoint.Start()
   nameWithType: InfoPoint.Start()
-- uid: Vour.InfoPoint.Start*
+- uid: CrizGames.Vour.InfoPoint.Start*
   name: Start
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_Start_
-  commentId: Overload:Vour.InfoPoint.Start
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_Start_
+  commentId: Overload:CrizGames.Vour.InfoPoint.Start
   isSpec: "True"
-  fullName: Vour.InfoPoint.Start
+  fullName: CrizGames.Vour.InfoPoint.Start
   nameWithType: InfoPoint.Start
-- uid: Vour.InfoPoint.Text
+- uid: CrizGames.Vour.InfoPoint.Text
   name: Text
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_Text
-  commentId: F:Vour.InfoPoint.Text
-  fullName: Vour.InfoPoint.Text
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_Text
+  commentId: F:CrizGames.Vour.InfoPoint.Text
+  fullName: CrizGames.Vour.InfoPoint.Text
   nameWithType: InfoPoint.Text
-- uid: Vour.InfoPoint.Title
+- uid: CrizGames.Vour.InfoPoint.Title
   name: Title
-  href: api/Vour.InfoPoint.html#Vour_InfoPoint_Title
-  commentId: F:Vour.InfoPoint.Title
-  fullName: Vour.InfoPoint.Title
+  href: api/CrizGames.Vour.InfoPoint.html#CrizGames_Vour_InfoPoint_Title
+  commentId: F:CrizGames.Vour.InfoPoint.Title
+  fullName: CrizGames.Vour.InfoPoint.Title
   nameWithType: InfoPoint.Title
-- uid: Vour.InfoPointEditor
-  name: InfoPointEditor
-  href: api/Vour.InfoPointEditor.html
-  commentId: T:Vour.InfoPointEditor
-  fullName: Vour.InfoPointEditor
-  nameWithType: InfoPointEditor
-- uid: Vour.InfoPointEditor.OnInspectorGUI
-  name: OnInspectorGUI()
-  href: api/Vour.InfoPointEditor.html#Vour_InfoPointEditor_OnInspectorGUI
-  commentId: M:Vour.InfoPointEditor.OnInspectorGUI
-  fullName: Vour.InfoPointEditor.OnInspectorGUI()
-  nameWithType: InfoPointEditor.OnInspectorGUI()
-- uid: Vour.InfoPointEditor.OnInspectorGUI*
-  name: OnInspectorGUI
-  href: api/Vour.InfoPointEditor.html#Vour_InfoPointEditor_OnInspectorGUI_
-  commentId: Overload:Vour.InfoPointEditor.OnInspectorGUI
-  isSpec: "True"
-  fullName: Vour.InfoPointEditor.OnInspectorGUI
-  nameWithType: InfoPointEditor.OnInspectorGUI
-- uid: Vour.Interactable
+- uid: CrizGames.Vour.Interactable
   name: Interactable
-  href: api/Vour.Interactable.html
-  commentId: T:Vour.Interactable
-  fullName: Vour.Interactable
+  href: api/CrizGames.Vour.Interactable.html
+  commentId: T:CrizGames.Vour.Interactable
+  fullName: CrizGames.Vour.Interactable
   nameWithType: Interactable
-- uid: Vour.Interactable.Interact
+- uid: CrizGames.Vour.Interactable.Interact
   name: Interact()
-  href: api/Vour.Interactable.html#Vour_Interactable_Interact
-  commentId: M:Vour.Interactable.Interact
-  fullName: Vour.Interactable.Interact()
+  href: api/CrizGames.Vour.Interactable.html#CrizGames_Vour_Interactable_Interact
+  commentId: M:CrizGames.Vour.Interactable.Interact
+  fullName: CrizGames.Vour.Interactable.Interact()
   nameWithType: Interactable.Interact()
-- uid: Vour.Interactable.Interact*
+- uid: CrizGames.Vour.Interactable.Interact*
   name: Interact
-  href: api/Vour.Interactable.html#Vour_Interactable_Interact_
-  commentId: Overload:Vour.Interactable.Interact
+  href: api/CrizGames.Vour.Interactable.html#CrizGames_Vour_Interactable_Interact_
+  commentId: Overload:CrizGames.Vour.Interactable.Interact
   isSpec: "True"
-  fullName: Vour.Interactable.Interact
+  fullName: CrizGames.Vour.Interactable.Interact
   nameWithType: Interactable.Interact
-- uid: Vour.Interactable.OnPointerOverObjEnter
+- uid: CrizGames.Vour.Interactable.OnPointerOverObjEnter
   name: OnPointerOverObjEnter()
-  href: api/Vour.Interactable.html#Vour_Interactable_OnPointerOverObjEnter
-  commentId: M:Vour.Interactable.OnPointerOverObjEnter
-  fullName: Vour.Interactable.OnPointerOverObjEnter()
+  href: api/CrizGames.Vour.Interactable.html#CrizGames_Vour_Interactable_OnPointerOverObjEnter
+  commentId: M:CrizGames.Vour.Interactable.OnPointerOverObjEnter
+  fullName: CrizGames.Vour.Interactable.OnPointerOverObjEnter()
   nameWithType: Interactable.OnPointerOverObjEnter()
-- uid: Vour.Interactable.OnPointerOverObjEnter*
+- uid: CrizGames.Vour.Interactable.OnPointerOverObjEnter*
   name: OnPointerOverObjEnter
-  href: api/Vour.Interactable.html#Vour_Interactable_OnPointerOverObjEnter_
-  commentId: Overload:Vour.Interactable.OnPointerOverObjEnter
+  href: api/CrizGames.Vour.Interactable.html#CrizGames_Vour_Interactable_OnPointerOverObjEnter_
+  commentId: Overload:CrizGames.Vour.Interactable.OnPointerOverObjEnter
   isSpec: "True"
-  fullName: Vour.Interactable.OnPointerOverObjEnter
+  fullName: CrizGames.Vour.Interactable.OnPointerOverObjEnter
   nameWithType: Interactable.OnPointerOverObjEnter
-- uid: Vour.Interactable.OnPointerOverObjExit
+- uid: CrizGames.Vour.Interactable.OnPointerOverObjExit
   name: OnPointerOverObjExit()
-  href: api/Vour.Interactable.html#Vour_Interactable_OnPointerOverObjExit
-  commentId: M:Vour.Interactable.OnPointerOverObjExit
-  fullName: Vour.Interactable.OnPointerOverObjExit()
+  href: api/CrizGames.Vour.Interactable.html#CrizGames_Vour_Interactable_OnPointerOverObjExit
+  commentId: M:CrizGames.Vour.Interactable.OnPointerOverObjExit
+  fullName: CrizGames.Vour.Interactable.OnPointerOverObjExit()
   nameWithType: Interactable.OnPointerOverObjExit()
-- uid: Vour.Interactable.OnPointerOverObjExit*
+- uid: CrizGames.Vour.Interactable.OnPointerOverObjExit*
   name: OnPointerOverObjExit
-  href: api/Vour.Interactable.html#Vour_Interactable_OnPointerOverObjExit_
-  commentId: Overload:Vour.Interactable.OnPointerOverObjExit
+  href: api/CrizGames.Vour.Interactable.html#CrizGames_Vour_Interactable_OnPointerOverObjExit_
+  commentId: Overload:CrizGames.Vour.Interactable.OnPointerOverObjExit
   isSpec: "True"
-  fullName: Vour.Interactable.OnPointerOverObjExit
+  fullName: CrizGames.Vour.Interactable.OnPointerOverObjExit
   nameWithType: Interactable.OnPointerOverObjExit
-- uid: Vour.Interactable.PointerOverObj
+- uid: CrizGames.Vour.Interactable.PointerOverObj
   name: PointerOverObj
-  href: api/Vour.Interactable.html#Vour_Interactable_PointerOverObj
-  commentId: F:Vour.Interactable.PointerOverObj
-  fullName: Vour.Interactable.PointerOverObj
+  href: api/CrizGames.Vour.Interactable.html#CrizGames_Vour_Interactable_PointerOverObj
+  commentId: F:CrizGames.Vour.Interactable.PointerOverObj
+  fullName: CrizGames.Vour.Interactable.PointerOverObj
   nameWithType: Interactable.PointerOverObj
-- uid: Vour.Location
+- uid: CrizGames.Vour.Location
   name: Location
-  href: api/Vour.Location.html
-  commentId: T:Vour.Location
-  fullName: Vour.Location
+  href: api/CrizGames.Vour.Location.html
+  commentId: T:CrizGames.Vour.Location
+  fullName: CrizGames.Vour.Location
   nameWithType: Location
-- uid: Vour.Location._3D_Layout
+- uid: CrizGames.Vour.Location._3D_Layout
   name: _3D_Layout
-  href: api/Vour.Location.html#Vour_Location__3D_Layout
-  commentId: F:Vour.Location._3D_Layout
-  fullName: Vour.Location._3D_Layout
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location__3D_Layout
+  commentId: F:CrizGames.Vour.Location._3D_Layout
+  fullName: CrizGames.Vour.Location._3D_Layout
   nameWithType: Location._3D_Layout
-- uid: Vour.Location._3DLayout
+- uid: CrizGames.Vour.Location._3DLayout
   name: Location._3DLayout
-  href: api/Vour.Location._3DLayout.html
-  commentId: T:Vour.Location._3DLayout
-  fullName: Vour.Location._3DLayout
+  href: api/CrizGames.Vour.Location._3DLayout.html
+  commentId: T:CrizGames.Vour.Location._3DLayout
+  fullName: CrizGames.Vour.Location._3DLayout
   nameWithType: Location._3DLayout
-- uid: Vour.Location._3DLayout.OverUnder
+- uid: CrizGames.Vour.Location._3DLayout.OverUnder
   name: OverUnder
-  href: api/Vour.Location._3DLayout.html#Vour_Location__3DLayout_OverUnder
-  commentId: F:Vour.Location._3DLayout.OverUnder
-  fullName: Vour.Location._3DLayout.OverUnder
+  href: api/CrizGames.Vour.Location._3DLayout.html#CrizGames_Vour_Location__3DLayout_OverUnder
+  commentId: F:CrizGames.Vour.Location._3DLayout.OverUnder
+  fullName: CrizGames.Vour.Location._3DLayout.OverUnder
   nameWithType: Location._3DLayout.OverUnder
-- uid: Vour.Location._3DLayout.SideBySide
+- uid: CrizGames.Vour.Location._3DLayout.SideBySide
   name: SideBySide
-  href: api/Vour.Location._3DLayout.html#Vour_Location__3DLayout_SideBySide
-  commentId: F:Vour.Location._3DLayout.SideBySide
-  fullName: Vour.Location._3DLayout.SideBySide
+  href: api/CrizGames.Vour.Location._3DLayout.html#CrizGames_Vour_Location__3DLayout_SideBySide
+  commentId: F:CrizGames.Vour.Location._3DLayout.SideBySide
+  fullName: CrizGames.Vour.Location._3DLayout.SideBySide
   nameWithType: Location._3DLayout.SideBySide
-- uid: Vour.Location.InitAtStart
+- uid: CrizGames.Vour.Location.InitAtStart
   name: InitAtStart()
-  href: api/Vour.Location.html#Vour_Location_InitAtStart
-  commentId: M:Vour.Location.InitAtStart
-  fullName: Vour.Location.InitAtStart()
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_InitAtStart
+  commentId: M:CrizGames.Vour.Location.InitAtStart
+  fullName: CrizGames.Vour.Location.InitAtStart()
   nameWithType: Location.InitAtStart()
-- uid: Vour.Location.InitAtStart*
+- uid: CrizGames.Vour.Location.InitAtStart*
   name: InitAtStart
-  href: api/Vour.Location.html#Vour_Location_InitAtStart_
-  commentId: Overload:Vour.Location.InitAtStart
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_InitAtStart_
+  commentId: Overload:CrizGames.Vour.Location.InitAtStart
   isSpec: "True"
-  fullName: Vour.Location.InitAtStart
+  fullName: CrizGames.Vour.Location.InitAtStart
   nameWithType: Location.InitAtStart
-- uid: Vour.Location.locationType
+- uid: CrizGames.Vour.Location.locationType
   name: locationType
-  href: api/Vour.Location.html#Vour_Location_locationType
-  commentId: F:Vour.Location.locationType
-  fullName: Vour.Location.locationType
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_locationType
+  commentId: F:CrizGames.Vour.Location.locationType
+  fullName: CrizGames.Vour.Location.locationType
   nameWithType: Location.locationType
-- uid: Vour.Location.LocationType
+- uid: CrizGames.Vour.Location.LocationType
   name: Location.LocationType
-  href: api/Vour.Location.LocationType.html
-  commentId: T:Vour.Location.LocationType
-  fullName: Vour.Location.LocationType
+  href: api/CrizGames.Vour.Location.LocationType.html
+  commentId: T:CrizGames.Vour.Location.LocationType
+  fullName: CrizGames.Vour.Location.LocationType
   nameWithType: Location.LocationType
-- uid: Vour.Location.LocationType.Empty
+- uid: CrizGames.Vour.Location.LocationType.Empty
   name: Empty
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Empty
-  commentId: F:Vour.Location.LocationType.Empty
-  fullName: Vour.Location.LocationType.Empty
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Empty
+  commentId: F:CrizGames.Vour.Location.LocationType.Empty
+  fullName: CrizGames.Vour.Location.LocationType.Empty
   nameWithType: Location.LocationType.Empty
-- uid: Vour.Location.LocationType.Image
+- uid: CrizGames.Vour.Location.LocationType.Image
   name: Image
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Image
-  commentId: F:Vour.Location.LocationType.Image
-  fullName: Vour.Location.LocationType.Image
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Image
+  commentId: F:CrizGames.Vour.Location.LocationType.Image
+  fullName: CrizGames.Vour.Location.LocationType.Image
   nameWithType: Location.LocationType.Image
-- uid: Vour.Location.LocationType.Image360
+- uid: CrizGames.Vour.Location.LocationType.Image360
   name: Image360
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Image360
-  commentId: F:Vour.Location.LocationType.Image360
-  fullName: Vour.Location.LocationType.Image360
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Image360
+  commentId: F:CrizGames.Vour.Location.LocationType.Image360
+  fullName: CrizGames.Vour.Location.LocationType.Image360
   nameWithType: Location.LocationType.Image360
-- uid: Vour.Location.LocationType.Image3D
+- uid: CrizGames.Vour.Location.LocationType.Image3D
   name: Image3D
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Image3D
-  commentId: F:Vour.Location.LocationType.Image3D
-  fullName: Vour.Location.LocationType.Image3D
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Image3D
+  commentId: F:CrizGames.Vour.Location.LocationType.Image3D
+  fullName: CrizGames.Vour.Location.LocationType.Image3D
   nameWithType: Location.LocationType.Image3D
-- uid: Vour.Location.LocationType.Image3D360
+- uid: CrizGames.Vour.Location.LocationType.Image3D360
   name: Image3D360
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Image3D360
-  commentId: F:Vour.Location.LocationType.Image3D360
-  fullName: Vour.Location.LocationType.Image3D360
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Image3D360
+  commentId: F:CrizGames.Vour.Location.LocationType.Image3D360
+  fullName: CrizGames.Vour.Location.LocationType.Image3D360
   nameWithType: Location.LocationType.Image3D360
-- uid: Vour.Location.LocationType.Scene
+- uid: CrizGames.Vour.Location.LocationType.Scene
   name: Scene
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Scene
-  commentId: F:Vour.Location.LocationType.Scene
-  fullName: Vour.Location.LocationType.Scene
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Scene
+  commentId: F:CrizGames.Vour.Location.LocationType.Scene
+  fullName: CrizGames.Vour.Location.LocationType.Scene
   nameWithType: Location.LocationType.Scene
-- uid: Vour.Location.LocationType.Video
+- uid: CrizGames.Vour.Location.LocationType.Video
   name: Video
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Video
-  commentId: F:Vour.Location.LocationType.Video
-  fullName: Vour.Location.LocationType.Video
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Video
+  commentId: F:CrizGames.Vour.Location.LocationType.Video
+  fullName: CrizGames.Vour.Location.LocationType.Video
   nameWithType: Location.LocationType.Video
-- uid: Vour.Location.LocationType.Video360
+- uid: CrizGames.Vour.Location.LocationType.Video360
   name: Video360
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Video360
-  commentId: F:Vour.Location.LocationType.Video360
-  fullName: Vour.Location.LocationType.Video360
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Video360
+  commentId: F:CrizGames.Vour.Location.LocationType.Video360
+  fullName: CrizGames.Vour.Location.LocationType.Video360
   nameWithType: Location.LocationType.Video360
-- uid: Vour.Location.LocationType.Video3D
+- uid: CrizGames.Vour.Location.LocationType.Video3D
   name: Video3D
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Video3D
-  commentId: F:Vour.Location.LocationType.Video3D
-  fullName: Vour.Location.LocationType.Video3D
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Video3D
+  commentId: F:CrizGames.Vour.Location.LocationType.Video3D
+  fullName: CrizGames.Vour.Location.LocationType.Video3D
   nameWithType: Location.LocationType.Video3D
-- uid: Vour.Location.LocationType.Video3D360
+- uid: CrizGames.Vour.Location.LocationType.Video3D360
   name: Video3D360
-  href: api/Vour.Location.LocationType.html#Vour_Location_LocationType_Video3D360
-  commentId: F:Vour.Location.LocationType.Video3D360
-  fullName: Vour.Location.LocationType.Video3D360
+  href: api/CrizGames.Vour.Location.LocationType.html#CrizGames_Vour_Location_LocationType_Video3D360
+  commentId: F:CrizGames.Vour.Location.LocationType.Video3D360
+  fullName: CrizGames.Vour.Location.LocationType.Video3D360
   nameWithType: Location.LocationType.Video3D360
-- uid: Vour.Location.prepareVideo
+- uid: CrizGames.Vour.Location.prepareVideo
   name: prepareVideo
-  href: api/Vour.Location.html#Vour_Location_prepareVideo
-  commentId: F:Vour.Location.prepareVideo
-  fullName: Vour.Location.prepareVideo
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_prepareVideo
+  commentId: F:CrizGames.Vour.Location.prepareVideo
+  fullName: CrizGames.Vour.Location.prepareVideo
   nameWithType: Location.prepareVideo
-- uid: Vour.Location.SceneName
+- uid: CrizGames.Vour.Location.rotOffset
+  name: rotOffset
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_rotOffset
+  commentId: F:CrizGames.Vour.Location.rotOffset
+  fullName: CrizGames.Vour.Location.rotOffset
+  nameWithType: Location.rotOffset
+- uid: CrizGames.Vour.Location.SceneName
   name: SceneName
-  href: api/Vour.Location.html#Vour_Location_SceneName
-  commentId: F:Vour.Location.SceneName
-  fullName: Vour.Location.SceneName
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_SceneName
+  commentId: F:CrizGames.Vour.Location.SceneName
+  fullName: CrizGames.Vour.Location.SceneName
   nameWithType: Location.SceneName
-- uid: Vour.Location.SetSourcesToLocation(Vour.LocationBase)
+- uid: CrizGames.Vour.Location.SetSourcesToLocation(CrizGames.Vour.LocationBase)
   name: SetSourcesToLocation(LocationBase)
-  href: api/Vour.Location.html#Vour_Location_SetSourcesToLocation_Vour_LocationBase_
-  commentId: M:Vour.Location.SetSourcesToLocation(Vour.LocationBase)
-  fullName: Vour.Location.SetSourcesToLocation(Vour.LocationBase)
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_SetSourcesToLocation_CrizGames_Vour_LocationBase_
+  commentId: M:CrizGames.Vour.Location.SetSourcesToLocation(CrizGames.Vour.LocationBase)
+  fullName: CrizGames.Vour.Location.SetSourcesToLocation(CrizGames.Vour.LocationBase)
   nameWithType: Location.SetSourcesToLocation(LocationBase)
-- uid: Vour.Location.SetSourcesToLocation*
+- uid: CrizGames.Vour.Location.SetSourcesToLocation*
   name: SetSourcesToLocation
-  href: api/Vour.Location.html#Vour_Location_SetSourcesToLocation_
-  commentId: Overload:Vour.Location.SetSourcesToLocation
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_SetSourcesToLocation_
+  commentId: Overload:CrizGames.Vour.Location.SetSourcesToLocation
   isSpec: "True"
-  fullName: Vour.Location.SetSourcesToLocation
+  fullName: CrizGames.Vour.Location.SetSourcesToLocation
   nameWithType: Location.SetSourcesToLocation
-- uid: Vour.Location.Texture
+- uid: CrizGames.Vour.Location.StreamingAssetsVidPath
+  name: StreamingAssetsVidPath
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_StreamingAssetsVidPath
+  commentId: F:CrizGames.Vour.Location.StreamingAssetsVidPath
+  fullName: CrizGames.Vour.Location.StreamingAssetsVidPath
+  nameWithType: Location.StreamingAssetsVidPath
+- uid: CrizGames.Vour.Location.Texture
   name: Texture
-  href: api/Vour.Location.html#Vour_Location_Texture
-  commentId: F:Vour.Location.Texture
-  fullName: Vour.Location.Texture
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_Texture
+  commentId: F:CrizGames.Vour.Location.Texture
+  fullName: CrizGames.Vour.Location.Texture
   nameWithType: Location.Texture
-- uid: Vour.Location.Video
+- uid: CrizGames.Vour.Location.Video
   name: Video
-  href: api/Vour.Location.html#Vour_Location_Video
-  commentId: F:Vour.Location.Video
-  fullName: Vour.Location.Video
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_Video
+  commentId: F:CrizGames.Vour.Location.Video
+  fullName: CrizGames.Vour.Location.Video
   nameWithType: Location.Video
-- uid: Vour.Location.videoPlayer
+- uid: CrizGames.Vour.Location.videoPlayer
   name: videoPlayer
-  href: api/Vour.Location.html#Vour_Location_videoPlayer
-  commentId: F:Vour.Location.videoPlayer
-  fullName: Vour.Location.videoPlayer
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_videoPlayer
+  commentId: F:CrizGames.Vour.Location.videoPlayer
+  fullName: CrizGames.Vour.Location.videoPlayer
   nameWithType: Location.videoPlayer
-- uid: Vour.Location.videoType
+- uid: CrizGames.Vour.Location.videoType
   name: videoType
-  href: api/Vour.Location.html#Vour_Location_videoType
-  commentId: F:Vour.Location.videoType
-  fullName: Vour.Location.videoType
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_videoType
+  commentId: F:CrizGames.Vour.Location.videoType
+  fullName: CrizGames.Vour.Location.videoType
   nameWithType: Location.videoType
-- uid: Vour.Location.VideoType
+- uid: CrizGames.Vour.Location.VideoType
   name: Location.VideoType
-  href: api/Vour.Location.VideoType.html
-  commentId: T:Vour.Location.VideoType
-  fullName: Vour.Location.VideoType
+  href: api/CrizGames.Vour.Location.VideoType.html
+  commentId: T:CrizGames.Vour.Location.VideoType
+  fullName: CrizGames.Vour.Location.VideoType
   nameWithType: Location.VideoType
-- uid: Vour.Location.VideoType.Local
+- uid: CrizGames.Vour.Location.VideoType.Local
   name: Local
-  href: api/Vour.Location.VideoType.html#Vour_Location_VideoType_Local
-  commentId: F:Vour.Location.VideoType.Local
-  fullName: Vour.Location.VideoType.Local
+  href: api/CrizGames.Vour.Location.VideoType.html#CrizGames_Vour_Location_VideoType_Local
+  commentId: F:CrizGames.Vour.Location.VideoType.Local
+  fullName: CrizGames.Vour.Location.VideoType.Local
   nameWithType: Location.VideoType.Local
-- uid: Vour.Location.VideoType.URL
+- uid: CrizGames.Vour.Location.VideoType.StreamingAssets
+  name: StreamingAssets
+  href: api/CrizGames.Vour.Location.VideoType.html#CrizGames_Vour_Location_VideoType_StreamingAssets
+  commentId: F:CrizGames.Vour.Location.VideoType.StreamingAssets
+  fullName: CrizGames.Vour.Location.VideoType.StreamingAssets
+  nameWithType: Location.VideoType.StreamingAssets
+- uid: CrizGames.Vour.Location.VideoType.URL
   name: URL
-  href: api/Vour.Location.VideoType.html#Vour_Location_VideoType_URL
-  commentId: F:Vour.Location.VideoType.URL
-  fullName: Vour.Location.VideoType.URL
+  href: api/CrizGames.Vour.Location.VideoType.html#CrizGames_Vour_Location_VideoType_URL
+  commentId: F:CrizGames.Vour.Location.VideoType.URL
+  fullName: CrizGames.Vour.Location.VideoType.URL
   nameWithType: Location.VideoType.URL
-- uid: Vour.Location.VideoURL
+- uid: CrizGames.Vour.Location.VideoURL
   name: VideoURL
-  href: api/Vour.Location.html#Vour_Location_VideoURL
-  commentId: F:Vour.Location.VideoURL
-  fullName: Vour.Location.VideoURL
+  href: api/CrizGames.Vour.Location.html#CrizGames_Vour_Location_VideoURL
+  commentId: F:CrizGames.Vour.Location.VideoURL
+  fullName: CrizGames.Vour.Location.VideoURL
   nameWithType: Location.VideoURL
-- uid: Vour.Location.yRotOffset
-  name: yRotOffset
-  href: api/Vour.Location.html#Vour_Location_yRotOffset
-  commentId: F:Vour.Location.yRotOffset
-  fullName: Vour.Location.yRotOffset
-  nameWithType: Location.yRotOffset
-- uid: Vour.LocationBase
+- uid: CrizGames.Vour.LocationBase
   name: LocationBase
-  href: api/Vour.LocationBase.html
-  commentId: T:Vour.LocationBase
-  fullName: Vour.LocationBase
+  href: api/CrizGames.Vour.LocationBase.html
+  commentId: T:CrizGames.Vour.LocationBase
+  fullName: CrizGames.Vour.LocationBase
   nameWithType: LocationBase
-- uid: Vour.LocationBase.Init
+- uid: CrizGames.Vour.LocationBase.Init
   name: Init()
-  href: api/Vour.LocationBase.html#Vour_LocationBase_Init
-  commentId: M:Vour.LocationBase.Init
-  fullName: Vour.LocationBase.Init()
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_Init
+  commentId: M:CrizGames.Vour.LocationBase.Init
+  fullName: CrizGames.Vour.LocationBase.Init()
   nameWithType: LocationBase.Init()
-- uid: Vour.LocationBase.Init*
+- uid: CrizGames.Vour.LocationBase.Init*
   name: Init
-  href: api/Vour.LocationBase.html#Vour_LocationBase_Init_
-  commentId: Overload:Vour.LocationBase.Init
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_Init_
+  commentId: Overload:CrizGames.Vour.LocationBase.Init
   isSpec: "True"
-  fullName: Vour.LocationBase.Init
+  fullName: CrizGames.Vour.LocationBase.Init
   nameWithType: LocationBase.Init
-- uid: Vour.LocationBase.Location
+- uid: CrizGames.Vour.LocationBase.Location
   name: Location
-  href: api/Vour.LocationBase.html#Vour_LocationBase_Location
-  commentId: F:Vour.LocationBase.Location
-  fullName: Vour.LocationBase.Location
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_Location
+  commentId: F:CrizGames.Vour.LocationBase.Location
+  fullName: CrizGames.Vour.LocationBase.Location
   nameWithType: LocationBase.Location
-- uid: Vour.LocationBase.locationType
+- uid: CrizGames.Vour.LocationBase.locationType
   name: locationType
-  href: api/Vour.LocationBase.html#Vour_LocationBase_locationType
-  commentId: F:Vour.LocationBase.locationType
-  fullName: Vour.LocationBase.locationType
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_locationType
+  commentId: F:CrizGames.Vour.LocationBase.locationType
+  fullName: CrizGames.Vour.LocationBase.locationType
   nameWithType: LocationBase.locationType
-- uid: Vour.LocationBase.SceneName
+- uid: CrizGames.Vour.LocationBase.rotOffset
+  name: rotOffset
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_rotOffset
+  commentId: F:CrizGames.Vour.LocationBase.rotOffset
+  fullName: CrizGames.Vour.LocationBase.rotOffset
+  nameWithType: LocationBase.rotOffset
+- uid: CrizGames.Vour.LocationBase.SceneName
   name: SceneName
-  href: api/Vour.LocationBase.html#Vour_LocationBase_SceneName
-  commentId: F:Vour.LocationBase.SceneName
-  fullName: Vour.LocationBase.SceneName
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_SceneName
+  commentId: F:CrizGames.Vour.LocationBase.SceneName
+  fullName: CrizGames.Vour.LocationBase.SceneName
   nameWithType: LocationBase.SceneName
-- uid: Vour.LocationBase.Texture
+- uid: CrizGames.Vour.LocationBase.Texture
   name: Texture
-  href: api/Vour.LocationBase.html#Vour_LocationBase_Texture
-  commentId: F:Vour.LocationBase.Texture
-  fullName: Vour.LocationBase.Texture
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_Texture
+  commentId: F:CrizGames.Vour.LocationBase.Texture
+  fullName: CrizGames.Vour.LocationBase.Texture
   nameWithType: LocationBase.Texture
-- uid: Vour.LocationBase.UpdateLocation
+- uid: CrizGames.Vour.LocationBase.UpdateLocation
   name: UpdateLocation()
-  href: api/Vour.LocationBase.html#Vour_LocationBase_UpdateLocation
-  commentId: M:Vour.LocationBase.UpdateLocation
-  fullName: Vour.LocationBase.UpdateLocation()
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_UpdateLocation
+  commentId: M:CrizGames.Vour.LocationBase.UpdateLocation
+  fullName: CrizGames.Vour.LocationBase.UpdateLocation()
   nameWithType: LocationBase.UpdateLocation()
-- uid: Vour.LocationBase.UpdateLocation*
+- uid: CrizGames.Vour.LocationBase.UpdateLocation*
   name: UpdateLocation
-  href: api/Vour.LocationBase.html#Vour_LocationBase_UpdateLocation_
-  commentId: Overload:Vour.LocationBase.UpdateLocation
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_UpdateLocation_
+  commentId: Overload:CrizGames.Vour.LocationBase.UpdateLocation
   isSpec: "True"
-  fullName: Vour.LocationBase.UpdateLocation
+  fullName: CrizGames.Vour.LocationBase.UpdateLocation
   nameWithType: LocationBase.UpdateLocation
-- uid: Vour.LocationBase.Video
+- uid: CrizGames.Vour.LocationBase.Video
   name: Video
-  href: api/Vour.LocationBase.html#Vour_LocationBase_Video
-  commentId: F:Vour.LocationBase.Video
-  fullName: Vour.LocationBase.Video
+  href: api/CrizGames.Vour.LocationBase.html#CrizGames_Vour_LocationBase_Video
+  commentId: F:CrizGames.Vour.LocationBase.Video
+  fullName: CrizGames.Vour.LocationBase.Video
   nameWithType: LocationBase.Video
-- uid: Vour.LocationBase.yRotOffset
-  name: yRotOffset
-  href: api/Vour.LocationBase.html#Vour_LocationBase_yRotOffset
-  commentId: F:Vour.LocationBase.yRotOffset
-  fullName: Vour.LocationBase.yRotOffset
-  nameWithType: LocationBase.yRotOffset
-- uid: Vour.LocationEditor
-  name: LocationEditor
-  href: api/Vour.LocationEditor.html
-  commentId: T:Vour.LocationEditor
-  fullName: Vour.LocationEditor
-  nameWithType: LocationEditor
-- uid: Vour.LocationEditor.ActivateLocation(Vour.LocationManager,Vour.Location)
-  name: ActivateLocation(LocationManager, Location)
-  href: api/Vour.LocationEditor.html#Vour_LocationEditor_ActivateLocation_Vour_LocationManager_Vour_Location_
-  commentId: M:Vour.LocationEditor.ActivateLocation(Vour.LocationManager,Vour.Location)
-  fullName: Vour.LocationEditor.ActivateLocation(Vour.LocationManager, Vour.Location)
-  nameWithType: LocationEditor.ActivateLocation(LocationManager, Location)
-- uid: Vour.LocationEditor.ActivateLocation*
-  name: ActivateLocation
-  href: api/Vour.LocationEditor.html#Vour_LocationEditor_ActivateLocation_
-  commentId: Overload:Vour.LocationEditor.ActivateLocation
-  isSpec: "True"
-  fullName: Vour.LocationEditor.ActivateLocation
-  nameWithType: LocationEditor.ActivateLocation
-- uid: Vour.LocationEditor.FindDeepChild(UnityEngine.Transform,System.String)
-  name: FindDeepChild(Transform, String)
-  href: api/Vour.LocationEditor.html#Vour_LocationEditor_FindDeepChild_UnityEngine_Transform_System_String_
-  commentId: M:Vour.LocationEditor.FindDeepChild(UnityEngine.Transform,System.String)
-  fullName: Vour.LocationEditor.FindDeepChild(UnityEngine.Transform, System.String)
-  nameWithType: LocationEditor.FindDeepChild(Transform, String)
-- uid: Vour.LocationEditor.FindDeepChild*
-  name: FindDeepChild
-  href: api/Vour.LocationEditor.html#Vour_LocationEditor_FindDeepChild_
-  commentId: Overload:Vour.LocationEditor.FindDeepChild
-  isSpec: "True"
-  fullName: Vour.LocationEditor.FindDeepChild
-  nameWithType: LocationEditor.FindDeepChild
-- uid: Vour.LocationEditor.OnInspectorGUI
-  name: OnInspectorGUI()
-  href: api/Vour.LocationEditor.html#Vour_LocationEditor_OnInspectorGUI
-  commentId: M:Vour.LocationEditor.OnInspectorGUI
-  fullName: Vour.LocationEditor.OnInspectorGUI()
-  nameWithType: LocationEditor.OnInspectorGUI()
-- uid: Vour.LocationEditor.OnInspectorGUI*
-  name: OnInspectorGUI
-  href: api/Vour.LocationEditor.html#Vour_LocationEditor_OnInspectorGUI_
-  commentId: Overload:Vour.LocationEditor.OnInspectorGUI
-  isSpec: "True"
-  fullName: Vour.LocationEditor.OnInspectorGUI
-  nameWithType: LocationEditor.OnInspectorGUI
-- uid: Vour.LocationEditor.SceneExists(System.String)
-  name: SceneExists(String)
-  href: api/Vour.LocationEditor.html#Vour_LocationEditor_SceneExists_System_String_
-  commentId: M:Vour.LocationEditor.SceneExists(System.String)
-  fullName: Vour.LocationEditor.SceneExists(System.String)
-  nameWithType: LocationEditor.SceneExists(String)
-- uid: Vour.LocationEditor.SceneExists*
-  name: SceneExists
-  href: api/Vour.LocationEditor.html#Vour_LocationEditor_SceneExists_
-  commentId: Overload:Vour.LocationEditor.SceneExists
-  isSpec: "True"
-  fullName: Vour.LocationEditor.SceneExists
-  nameWithType: LocationEditor.SceneExists
-- uid: Vour.LocationManager
+- uid: CrizGames.Vour.LocationManager
   name: LocationManager
-  href: api/Vour.LocationManager.html
-  commentId: T:Vour.LocationManager
-  fullName: Vour.LocationManager
+  href: api/CrizGames.Vour.LocationManager.html
+  commentId: T:CrizGames.Vour.LocationManager
+  fullName: CrizGames.Vour.LocationManager
   nameWithType: LocationManager
-- uid: Vour.LocationManager.BlinkAnim
+- uid: CrizGames.Vour.LocationManager.BlinkAnim
   name: BlinkAnim
-  href: api/Vour.LocationManager.html#Vour_LocationManager_BlinkAnim
-  commentId: F:Vour.LocationManager.BlinkAnim
-  fullName: Vour.LocationManager.BlinkAnim
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_BlinkAnim
+  commentId: F:CrizGames.Vour.LocationManager.BlinkAnim
+  fullName: CrizGames.Vour.LocationManager.BlinkAnim
   nameWithType: LocationManager.BlinkAnim
-- uid: Vour.LocationManager.De_ActivateLocations(System.Boolean)
+- uid: CrizGames.Vour.LocationManager.De_ActivateLocations(System.Boolean)
   name: De_ActivateLocations(Boolean)
-  href: api/Vour.LocationManager.html#Vour_LocationManager_De_ActivateLocations_System_Boolean_
-  commentId: M:Vour.LocationManager.De_ActivateLocations(System.Boolean)
-  fullName: Vour.LocationManager.De_ActivateLocations(System.Boolean)
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_De_ActivateLocations_System_Boolean_
+  commentId: M:CrizGames.Vour.LocationManager.De_ActivateLocations(System.Boolean)
+  fullName: CrizGames.Vour.LocationManager.De_ActivateLocations(System.Boolean)
   nameWithType: LocationManager.De_ActivateLocations(Boolean)
-- uid: Vour.LocationManager.De_ActivateLocations*
+- uid: CrizGames.Vour.LocationManager.De_ActivateLocations*
   name: De_ActivateLocations
-  href: api/Vour.LocationManager.html#Vour_LocationManager_De_ActivateLocations_
-  commentId: Overload:Vour.LocationManager.De_ActivateLocations
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_De_ActivateLocations_
+  commentId: Overload:CrizGames.Vour.LocationManager.De_ActivateLocations
   isSpec: "True"
-  fullName: Vour.LocationManager.De_ActivateLocations
+  fullName: CrizGames.Vour.LocationManager.De_ActivateLocations
   nameWithType: LocationManager.De_ActivateLocations
-- uid: Vour.LocationManager.DeactivateLocations
+- uid: CrizGames.Vour.LocationManager.DeactivateLocations
   name: DeactivateLocations()
-  href: api/Vour.LocationManager.html#Vour_LocationManager_DeactivateLocations
-  commentId: M:Vour.LocationManager.DeactivateLocations
-  fullName: Vour.LocationManager.DeactivateLocations()
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_DeactivateLocations
+  commentId: M:CrizGames.Vour.LocationManager.DeactivateLocations
+  fullName: CrizGames.Vour.LocationManager.DeactivateLocations()
   nameWithType: LocationManager.DeactivateLocations()
-- uid: Vour.LocationManager.DeactivateLocations*
+- uid: CrizGames.Vour.LocationManager.DeactivateLocations*
   name: DeactivateLocations
-  href: api/Vour.LocationManager.html#Vour_LocationManager_DeactivateLocations_
-  commentId: Overload:Vour.LocationManager.DeactivateLocations
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_DeactivateLocations_
+  commentId: Overload:CrizGames.Vour.LocationManager.DeactivateLocations
   isSpec: "True"
-  fullName: Vour.LocationManager.DeactivateLocations
+  fullName: CrizGames.Vour.LocationManager.DeactivateLocations
   nameWithType: LocationManager.DeactivateLocations
-- uid: Vour.LocationManager.DeactivateLocationTypes
+- uid: CrizGames.Vour.LocationManager.DeactivateLocationTypes
   name: DeactivateLocationTypes()
-  href: api/Vour.LocationManager.html#Vour_LocationManager_DeactivateLocationTypes
-  commentId: M:Vour.LocationManager.DeactivateLocationTypes
-  fullName: Vour.LocationManager.DeactivateLocationTypes()
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_DeactivateLocationTypes
+  commentId: M:CrizGames.Vour.LocationManager.DeactivateLocationTypes
+  fullName: CrizGames.Vour.LocationManager.DeactivateLocationTypes()
   nameWithType: LocationManager.DeactivateLocationTypes()
-- uid: Vour.LocationManager.DeactivateLocationTypes*
+- uid: CrizGames.Vour.LocationManager.DeactivateLocationTypes*
   name: DeactivateLocationTypes
-  href: api/Vour.LocationManager.html#Vour_LocationManager_DeactivateLocationTypes_
-  commentId: Overload:Vour.LocationManager.DeactivateLocationTypes
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_DeactivateLocationTypes_
+  commentId: Overload:CrizGames.Vour.LocationManager.DeactivateLocationTypes
   isSpec: "True"
-  fullName: Vour.LocationManager.DeactivateLocationTypes
+  fullName: CrizGames.Vour.LocationManager.DeactivateLocationTypes
   nameWithType: LocationManager.DeactivateLocationTypes
-- uid: Vour.LocationManager.Empty
+- uid: CrizGames.Vour.LocationManager.Empty
   name: Empty
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Empty
-  commentId: F:Vour.LocationManager.Empty
-  fullName: Vour.LocationManager.Empty
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Empty
+  commentId: F:CrizGames.Vour.LocationManager.Empty
+  fullName: CrizGames.Vour.LocationManager.Empty
   nameWithType: LocationManager.Empty
-- uid: Vour.LocationManager.FillLocationsDic
+- uid: CrizGames.Vour.LocationManager.FillLocationsDic
   name: FillLocationsDic()
-  href: api/Vour.LocationManager.html#Vour_LocationManager_FillLocationsDic
-  commentId: M:Vour.LocationManager.FillLocationsDic
-  fullName: Vour.LocationManager.FillLocationsDic()
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_FillLocationsDic
+  commentId: M:CrizGames.Vour.LocationManager.FillLocationsDic
+  fullName: CrizGames.Vour.LocationManager.FillLocationsDic()
   nameWithType: LocationManager.FillLocationsDic()
-- uid: Vour.LocationManager.FillLocationsDic*
+- uid: CrizGames.Vour.LocationManager.FillLocationsDic*
   name: FillLocationsDic
-  href: api/Vour.LocationManager.html#Vour_LocationManager_FillLocationsDic_
-  commentId: Overload:Vour.LocationManager.FillLocationsDic
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_FillLocationsDic_
+  commentId: Overload:CrizGames.Vour.LocationManager.FillLocationsDic
   isSpec: "True"
-  fullName: Vour.LocationManager.FillLocationsDic
+  fullName: CrizGames.Vour.LocationManager.FillLocationsDic
   nameWithType: LocationManager.FillLocationsDic
-- uid: Vour.LocationManager.GetManager
+- uid: CrizGames.Vour.LocationManager.GetManager
   name: GetManager()
-  href: api/Vour.LocationManager.html#Vour_LocationManager_GetManager
-  commentId: M:Vour.LocationManager.GetManager
-  fullName: Vour.LocationManager.GetManager()
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_GetManager
+  commentId: M:CrizGames.Vour.LocationManager.GetManager
+  fullName: CrizGames.Vour.LocationManager.GetManager()
   nameWithType: LocationManager.GetManager()
-- uid: Vour.LocationManager.GetManager*
+- uid: CrizGames.Vour.LocationManager.GetManager*
   name: GetManager
-  href: api/Vour.LocationManager.html#Vour_LocationManager_GetManager_
-  commentId: Overload:Vour.LocationManager.GetManager
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_GetManager_
+  commentId: Overload:CrizGames.Vour.LocationManager.GetManager
   isSpec: "True"
-  fullName: Vour.LocationManager.GetManager
+  fullName: CrizGames.Vour.LocationManager.GetManager
   nameWithType: LocationManager.GetManager
-- uid: Vour.LocationManager.Image
+- uid: CrizGames.Vour.LocationManager.Image
   name: Image
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Image
-  commentId: F:Vour.LocationManager.Image
-  fullName: Vour.LocationManager.Image
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Image
+  commentId: F:CrizGames.Vour.LocationManager.Image
+  fullName: CrizGames.Vour.LocationManager.Image
   nameWithType: LocationManager.Image
-- uid: Vour.LocationManager.Image360
+- uid: CrizGames.Vour.LocationManager.Image360
   name: Image360
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Image360
-  commentId: F:Vour.LocationManager.Image360
-  fullName: Vour.LocationManager.Image360
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Image360
+  commentId: F:CrizGames.Vour.LocationManager.Image360
+  fullName: CrizGames.Vour.LocationManager.Image360
   nameWithType: LocationManager.Image360
-- uid: Vour.LocationManager.Image3D
+- uid: CrizGames.Vour.LocationManager.Image3D
   name: Image3D
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Image3D
-  commentId: F:Vour.LocationManager.Image3D
-  fullName: Vour.LocationManager.Image3D
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Image3D
+  commentId: F:CrizGames.Vour.LocationManager.Image3D
+  fullName: CrizGames.Vour.LocationManager.Image3D
   nameWithType: LocationManager.Image3D
-- uid: Vour.LocationManager.Image3D360
+- uid: CrizGames.Vour.LocationManager.Image3D360
   name: Image3D360
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Image3D360
-  commentId: F:Vour.LocationManager.Image3D360
-  fullName: Vour.LocationManager.Image3D360
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Image3D360
+  commentId: F:CrizGames.Vour.LocationManager.Image3D360
+  fullName: CrizGames.Vour.LocationManager.Image3D360
   nameWithType: LocationManager.Image3D360
-- uid: Vour.LocationManager.InfoPanelLeftImage
+- uid: CrizGames.Vour.LocationManager.InfoPanelLeftImage
   name: InfoPanelLeftImage
-  href: api/Vour.LocationManager.html#Vour_LocationManager_InfoPanelLeftImage
-  commentId: F:Vour.LocationManager.InfoPanelLeftImage
-  fullName: Vour.LocationManager.InfoPanelLeftImage
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_InfoPanelLeftImage
+  commentId: F:CrizGames.Vour.LocationManager.InfoPanelLeftImage
+  fullName: CrizGames.Vour.LocationManager.InfoPanelLeftImage
   nameWithType: LocationManager.InfoPanelLeftImage
-- uid: Vour.LocationManager.InfoPanelRightImage
+- uid: CrizGames.Vour.LocationManager.InfoPanelRightImage
   name: InfoPanelRightImage
-  href: api/Vour.LocationManager.html#Vour_LocationManager_InfoPanelRightImage
-  commentId: F:Vour.LocationManager.InfoPanelRightImage
-  fullName: Vour.LocationManager.InfoPanelRightImage
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_InfoPanelRightImage
+  commentId: F:CrizGames.Vour.LocationManager.InfoPanelRightImage
+  fullName: CrizGames.Vour.LocationManager.InfoPanelRightImage
   nameWithType: LocationManager.InfoPanelRightImage
-- uid: Vour.LocationManager.InfoPanelTextOnly
+- uid: CrizGames.Vour.LocationManager.InfoPanelTextOnly
   name: InfoPanelTextOnly
-  href: api/Vour.LocationManager.html#Vour_LocationManager_InfoPanelTextOnly
-  commentId: F:Vour.LocationManager.InfoPanelTextOnly
-  fullName: Vour.LocationManager.InfoPanelTextOnly
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_InfoPanelTextOnly
+  commentId: F:CrizGames.Vour.LocationManager.InfoPanelTextOnly
+  fullName: CrizGames.Vour.LocationManager.InfoPanelTextOnly
   nameWithType: LocationManager.InfoPanelTextOnly
-- uid: Vour.LocationManager.InfoPoint
+- uid: CrizGames.Vour.LocationManager.InfoPoint
   name: InfoPoint
-  href: api/Vour.LocationManager.html#Vour_LocationManager_InfoPoint
-  commentId: F:Vour.LocationManager.InfoPoint
-  fullName: Vour.LocationManager.InfoPoint
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_InfoPoint
+  commentId: F:CrizGames.Vour.LocationManager.InfoPoint
+  fullName: CrizGames.Vour.LocationManager.InfoPoint
   nameWithType: LocationManager.InfoPoint
-- uid: Vour.LocationManager.Location
+- uid: CrizGames.Vour.LocationManager.Location
   name: Location
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Location
-  commentId: F:Vour.LocationManager.Location
-  fullName: Vour.LocationManager.Location
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Location
+  commentId: F:CrizGames.Vour.LocationManager.Location
+  fullName: CrizGames.Vour.LocationManager.Location
   nameWithType: LocationManager.Location
-- uid: Vour.LocationManager.LocationsDic
+- uid: CrizGames.Vour.LocationManager.LocationsDic
   name: LocationsDic
-  href: api/Vour.LocationManager.html#Vour_LocationManager_LocationsDic
-  commentId: F:Vour.LocationManager.LocationsDic
-  fullName: Vour.LocationManager.LocationsDic
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_LocationsDic
+  commentId: F:CrizGames.Vour.LocationManager.LocationsDic
+  fullName: CrizGames.Vour.LocationManager.LocationsDic
   nameWithType: LocationManager.LocationsDic
-- uid: Vour.LocationManager.LocationType
+- uid: CrizGames.Vour.LocationManager.LocationType
   name: LocationType
-  href: api/Vour.LocationManager.html#Vour_LocationManager_LocationType
-  commentId: F:Vour.LocationManager.LocationType
-  fullName: Vour.LocationManager.LocationType
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_LocationType
+  commentId: F:CrizGames.Vour.LocationManager.LocationType
+  fullName: CrizGames.Vour.LocationManager.LocationType
   nameWithType: LocationManager.LocationType
-- uid: Vour.LocationManager.PlayBlinkAnim
+- uid: CrizGames.Vour.LocationManager.PlayBlinkAnim
   name: PlayBlinkAnim()
-  href: api/Vour.LocationManager.html#Vour_LocationManager_PlayBlinkAnim
-  commentId: M:Vour.LocationManager.PlayBlinkAnim
-  fullName: Vour.LocationManager.PlayBlinkAnim()
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_PlayBlinkAnim
+  commentId: M:CrizGames.Vour.LocationManager.PlayBlinkAnim
+  fullName: CrizGames.Vour.LocationManager.PlayBlinkAnim()
   nameWithType: LocationManager.PlayBlinkAnim()
-- uid: Vour.LocationManager.PlayBlinkAnim*
+- uid: CrizGames.Vour.LocationManager.PlayBlinkAnim*
   name: PlayBlinkAnim
-  href: api/Vour.LocationManager.html#Vour_LocationManager_PlayBlinkAnim_
-  commentId: Overload:Vour.LocationManager.PlayBlinkAnim
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_PlayBlinkAnim_
+  commentId: Overload:CrizGames.Vour.LocationManager.PlayBlinkAnim
   isSpec: "True"
-  fullName: Vour.LocationManager.PlayBlinkAnim
+  fullName: CrizGames.Vour.LocationManager.PlayBlinkAnim
   nameWithType: LocationManager.PlayBlinkAnim
-- uid: Vour.LocationManager.PlayerPrefab
+- uid: CrizGames.Vour.LocationManager.PlayerPrefab
   name: PlayerPrefab
-  href: api/Vour.LocationManager.html#Vour_LocationManager_PlayerPrefab
-  commentId: F:Vour.LocationManager.PlayerPrefab
-  fullName: Vour.LocationManager.PlayerPrefab
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_PlayerPrefab
+  commentId: F:CrizGames.Vour.LocationManager.PlayerPrefab
+  fullName: CrizGames.Vour.LocationManager.PlayerPrefab
   nameWithType: LocationManager.PlayerPrefab
-- uid: Vour.LocationManager.Scene
+- uid: CrizGames.Vour.LocationManager.Scene
   name: Scene
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Scene
-  commentId: F:Vour.LocationManager.Scene
-  fullName: Vour.LocationManager.Scene
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Scene
+  commentId: F:CrizGames.Vour.LocationManager.Scene
+  fullName: CrizGames.Vour.LocationManager.Scene
   nameWithType: LocationManager.Scene
-- uid: Vour.LocationManager.SetCurrentLocation(Vour.Location.LocationType)
+- uid: CrizGames.Vour.LocationManager.SetCurrentLocation(CrizGames.Vour.Location.LocationType)
   name: SetCurrentLocation(Location.LocationType)
-  href: api/Vour.LocationManager.html#Vour_LocationManager_SetCurrentLocation_Vour_Location_LocationType_
-  commentId: M:Vour.LocationManager.SetCurrentLocation(Vour.Location.LocationType)
-  fullName: Vour.LocationManager.SetCurrentLocation(Vour.Location.LocationType)
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_SetCurrentLocation_CrizGames_Vour_Location_LocationType_
+  commentId: M:CrizGames.Vour.LocationManager.SetCurrentLocation(CrizGames.Vour.Location.LocationType)
+  fullName: CrizGames.Vour.LocationManager.SetCurrentLocation(CrizGames.Vour.Location.LocationType)
   nameWithType: LocationManager.SetCurrentLocation(Location.LocationType)
-- uid: Vour.LocationManager.SetCurrentLocation*
+- uid: CrizGames.Vour.LocationManager.SetCurrentLocation*
   name: SetCurrentLocation
-  href: api/Vour.LocationManager.html#Vour_LocationManager_SetCurrentLocation_
-  commentId: Overload:Vour.LocationManager.SetCurrentLocation
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_SetCurrentLocation_
+  commentId: Overload:CrizGames.Vour.LocationManager.SetCurrentLocation
   isSpec: "True"
-  fullName: Vour.LocationManager.SetCurrentLocation
+  fullName: CrizGames.Vour.LocationManager.SetCurrentLocation
   nameWithType: LocationManager.SetCurrentLocation
-- uid: Vour.LocationManager.StartLocation
+- uid: CrizGames.Vour.LocationManager.StartLocation
   name: StartLocation
-  href: api/Vour.LocationManager.html#Vour_LocationManager_StartLocation
-  commentId: F:Vour.LocationManager.StartLocation
-  fullName: Vour.LocationManager.StartLocation
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_StartLocation
+  commentId: F:CrizGames.Vour.LocationManager.StartLocation
+  fullName: CrizGames.Vour.LocationManager.StartLocation
   nameWithType: LocationManager.StartLocation
-- uid: Vour.LocationManager.TeleportPoint
+- uid: CrizGames.Vour.LocationManager.TeleportPoint
   name: TeleportPoint
-  href: api/Vour.LocationManager.html#Vour_LocationManager_TeleportPoint
-  commentId: F:Vour.LocationManager.TeleportPoint
-  fullName: Vour.LocationManager.TeleportPoint
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_TeleportPoint
+  commentId: F:CrizGames.Vour.LocationManager.TeleportPoint
+  fullName: CrizGames.Vour.LocationManager.TeleportPoint
   nameWithType: LocationManager.TeleportPoint
-- uid: Vour.LocationManager.Video
+- uid: CrizGames.Vour.LocationManager.Video
   name: Video
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Video
-  commentId: F:Vour.LocationManager.Video
-  fullName: Vour.LocationManager.Video
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Video
+  commentId: F:CrizGames.Vour.LocationManager.Video
+  fullName: CrizGames.Vour.LocationManager.Video
   nameWithType: LocationManager.Video
-- uid: Vour.LocationManager.Video360
+- uid: CrizGames.Vour.LocationManager.Video360
   name: Video360
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Video360
-  commentId: F:Vour.LocationManager.Video360
-  fullName: Vour.LocationManager.Video360
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Video360
+  commentId: F:CrizGames.Vour.LocationManager.Video360
+  fullName: CrizGames.Vour.LocationManager.Video360
   nameWithType: LocationManager.Video360
-- uid: Vour.LocationManager.Video3D
+- uid: CrizGames.Vour.LocationManager.Video3D
   name: Video3D
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Video3D
-  commentId: F:Vour.LocationManager.Video3D
-  fullName: Vour.LocationManager.Video3D
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Video3D
+  commentId: F:CrizGames.Vour.LocationManager.Video3D
+  fullName: CrizGames.Vour.LocationManager.Video3D
   nameWithType: LocationManager.Video3D
-- uid: Vour.LocationManager.Video3D360
+- uid: CrizGames.Vour.LocationManager.Video3D360
   name: Video3D360
-  href: api/Vour.LocationManager.html#Vour_LocationManager_Video3D360
-  commentId: F:Vour.LocationManager.Video3D360
-  fullName: Vour.LocationManager.Video3D360
+  href: api/CrizGames.Vour.LocationManager.html#CrizGames_Vour_LocationManager_Video3D360
+  commentId: F:CrizGames.Vour.LocationManager.Video3D360
+  fullName: CrizGames.Vour.LocationManager.Video3D360
   nameWithType: LocationManager.Video3D360
-- uid: Vour.LocationManagerEditor
-  name: LocationManagerEditor
-  href: api/Vour.LocationManagerEditor.html
-  commentId: T:Vour.LocationManagerEditor
-  fullName: Vour.LocationManagerEditor
-  nameWithType: LocationManagerEditor
-- uid: Vour.LocationManagerEditor.ActivateLocationIfChildSelected
-  name: ActivateLocationIfChildSelected()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_ActivateLocationIfChildSelected
-  commentId: M:Vour.LocationManagerEditor.ActivateLocationIfChildSelected
-  fullName: Vour.LocationManagerEditor.ActivateLocationIfChildSelected()
-  nameWithType: LocationManagerEditor.ActivateLocationIfChildSelected()
-- uid: Vour.LocationManagerEditor.ActivateLocationIfChildSelected*
-  name: ActivateLocationIfChildSelected
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_ActivateLocationIfChildSelected_
-  commentId: Overload:Vour.LocationManagerEditor.ActivateLocationIfChildSelected
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.ActivateLocationIfChildSelected
-  nameWithType: LocationManagerEditor.ActivateLocationIfChildSelected
-- uid: Vour.LocationManagerEditor.AddActivateLocationEvent
-  name: AddActivateLocationEvent()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddActivateLocationEvent
-  commentId: M:Vour.LocationManagerEditor.AddActivateLocationEvent
-  fullName: Vour.LocationManagerEditor.AddActivateLocationEvent()
-  nameWithType: LocationManagerEditor.AddActivateLocationEvent()
-- uid: Vour.LocationManagerEditor.AddActivateLocationEvent*
-  name: AddActivateLocationEvent
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddActivateLocationEvent_
-  commentId: Overload:Vour.LocationManagerEditor.AddActivateLocationEvent
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddActivateLocationEvent
-  nameWithType: LocationManagerEditor.AddActivateLocationEvent
-- uid: Vour.LocationManagerEditor.AddLocation
-  name: AddLocation()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocation
-  commentId: M:Vour.LocationManagerEditor.AddLocation
-  fullName: Vour.LocationManagerEditor.AddLocation()
-  nameWithType: LocationManagerEditor.AddLocation()
-- uid: Vour.LocationManagerEditor.AddLocation*
-  name: AddLocation
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocation_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocation
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocation
-  nameWithType: LocationManagerEditor.AddLocation
-- uid: Vour.LocationManagerEditor.AddLocationEmpty
-  name: AddLocationEmpty()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationEmpty
-  commentId: M:Vour.LocationManagerEditor.AddLocationEmpty
-  fullName: Vour.LocationManagerEditor.AddLocationEmpty()
-  nameWithType: LocationManagerEditor.AddLocationEmpty()
-- uid: Vour.LocationManagerEditor.AddLocationEmpty*
-  name: AddLocationEmpty
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationEmpty_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationEmpty
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationEmpty
-  nameWithType: LocationManagerEditor.AddLocationEmpty
-- uid: Vour.LocationManagerEditor.AddLocationImage
-  name: AddLocationImage()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationImage
-  commentId: M:Vour.LocationManagerEditor.AddLocationImage
-  fullName: Vour.LocationManagerEditor.AddLocationImage()
-  nameWithType: LocationManagerEditor.AddLocationImage()
-- uid: Vour.LocationManagerEditor.AddLocationImage*
-  name: AddLocationImage
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationImage_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationImage
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationImage
-  nameWithType: LocationManagerEditor.AddLocationImage
-- uid: Vour.LocationManagerEditor.AddLocationImage360
-  name: AddLocationImage360()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationImage360
-  commentId: M:Vour.LocationManagerEditor.AddLocationImage360
-  fullName: Vour.LocationManagerEditor.AddLocationImage360()
-  nameWithType: LocationManagerEditor.AddLocationImage360()
-- uid: Vour.LocationManagerEditor.AddLocationImage360*
-  name: AddLocationImage360
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationImage360_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationImage360
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationImage360
-  nameWithType: LocationManagerEditor.AddLocationImage360
-- uid: Vour.LocationManagerEditor.AddLocationImage3D
-  name: AddLocationImage3D()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationImage3D
-  commentId: M:Vour.LocationManagerEditor.AddLocationImage3D
-  fullName: Vour.LocationManagerEditor.AddLocationImage3D()
-  nameWithType: LocationManagerEditor.AddLocationImage3D()
-- uid: Vour.LocationManagerEditor.AddLocationImage3D*
-  name: AddLocationImage3D
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationImage3D_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationImage3D
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationImage3D
-  nameWithType: LocationManagerEditor.AddLocationImage3D
-- uid: Vour.LocationManagerEditor.AddLocationImage3D360
-  name: AddLocationImage3D360()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationImage3D360
-  commentId: M:Vour.LocationManagerEditor.AddLocationImage3D360
-  fullName: Vour.LocationManagerEditor.AddLocationImage3D360()
-  nameWithType: LocationManagerEditor.AddLocationImage3D360()
-- uid: Vour.LocationManagerEditor.AddLocationImage3D360*
-  name: AddLocationImage3D360
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationImage3D360_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationImage3D360
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationImage3D360
-  nameWithType: LocationManagerEditor.AddLocationImage3D360
-- uid: Vour.LocationManagerEditor.AddLocationManagerToScene
-  name: AddLocationManagerToScene()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationManagerToScene
-  commentId: M:Vour.LocationManagerEditor.AddLocationManagerToScene
-  fullName: Vour.LocationManagerEditor.AddLocationManagerToScene()
-  nameWithType: LocationManagerEditor.AddLocationManagerToScene()
-- uid: Vour.LocationManagerEditor.AddLocationManagerToScene*
-  name: AddLocationManagerToScene
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationManagerToScene_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationManagerToScene
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationManagerToScene
-  nameWithType: LocationManagerEditor.AddLocationManagerToScene
-- uid: Vour.LocationManagerEditor.AddLocationScene
-  name: AddLocationScene()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationScene
-  commentId: M:Vour.LocationManagerEditor.AddLocationScene
-  fullName: Vour.LocationManagerEditor.AddLocationScene()
-  nameWithType: LocationManagerEditor.AddLocationScene()
-- uid: Vour.LocationManagerEditor.AddLocationScene*
-  name: AddLocationScene
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationScene_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationScene
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationScene
-  nameWithType: LocationManagerEditor.AddLocationScene
-- uid: Vour.LocationManagerEditor.AddLocationVideo
-  name: AddLocationVideo()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationVideo
-  commentId: M:Vour.LocationManagerEditor.AddLocationVideo
-  fullName: Vour.LocationManagerEditor.AddLocationVideo()
-  nameWithType: LocationManagerEditor.AddLocationVideo()
-- uid: Vour.LocationManagerEditor.AddLocationVideo*
-  name: AddLocationVideo
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationVideo_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationVideo
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationVideo
-  nameWithType: LocationManagerEditor.AddLocationVideo
-- uid: Vour.LocationManagerEditor.AddLocationVideo360
-  name: AddLocationVideo360()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationVideo360
-  commentId: M:Vour.LocationManagerEditor.AddLocationVideo360
-  fullName: Vour.LocationManagerEditor.AddLocationVideo360()
-  nameWithType: LocationManagerEditor.AddLocationVideo360()
-- uid: Vour.LocationManagerEditor.AddLocationVideo360*
-  name: AddLocationVideo360
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationVideo360_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationVideo360
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationVideo360
-  nameWithType: LocationManagerEditor.AddLocationVideo360
-- uid: Vour.LocationManagerEditor.AddLocationVideo3D
-  name: AddLocationVideo3D()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationVideo3D
-  commentId: M:Vour.LocationManagerEditor.AddLocationVideo3D
-  fullName: Vour.LocationManagerEditor.AddLocationVideo3D()
-  nameWithType: LocationManagerEditor.AddLocationVideo3D()
-- uid: Vour.LocationManagerEditor.AddLocationVideo3D*
-  name: AddLocationVideo3D
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationVideo3D_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationVideo3D
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationVideo3D
-  nameWithType: LocationManagerEditor.AddLocationVideo3D
-- uid: Vour.LocationManagerEditor.AddLocationVideo3D360
-  name: AddLocationVideo3D360()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationVideo3D360
-  commentId: M:Vour.LocationManagerEditor.AddLocationVideo3D360
-  fullName: Vour.LocationManagerEditor.AddLocationVideo3D360()
-  nameWithType: LocationManagerEditor.AddLocationVideo3D360()
-- uid: Vour.LocationManagerEditor.AddLocationVideo3D360*
-  name: AddLocationVideo3D360
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationVideo3D360_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationVideo3D360
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationVideo3D360
-  nameWithType: LocationManagerEditor.AddLocationVideo3D360
-- uid: Vour.LocationManagerEditor.AddLocationWithType(Vour.Location.LocationType)
-  name: AddLocationWithType(Location.LocationType)
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationWithType_Vour_Location_LocationType_
-  commentId: M:Vour.LocationManagerEditor.AddLocationWithType(Vour.Location.LocationType)
-  fullName: Vour.LocationManagerEditor.AddLocationWithType(Vour.Location.LocationType)
-  nameWithType: LocationManagerEditor.AddLocationWithType(Location.LocationType)
-- uid: Vour.LocationManagerEditor.AddLocationWithType*
-  name: AddLocationWithType
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_AddLocationWithType_
-  commentId: Overload:Vour.LocationManagerEditor.AddLocationWithType
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.AddLocationWithType
-  nameWithType: LocationManagerEditor.AddLocationWithType
-- uid: Vour.LocationManagerEditor.CenterEditorCam
-  name: CenterEditorCam()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_CenterEditorCam
-  commentId: M:Vour.LocationManagerEditor.CenterEditorCam
-  fullName: Vour.LocationManagerEditor.CenterEditorCam()
-  nameWithType: LocationManagerEditor.CenterEditorCam()
-- uid: Vour.LocationManagerEditor.CenterEditorCam*
-  name: CenterEditorCam
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_CenterEditorCam_
-  commentId: Overload:Vour.LocationManagerEditor.CenterEditorCam
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.CenterEditorCam
-  nameWithType: LocationManagerEditor.CenterEditorCam
-- uid: Vour.LocationManagerEditor.OnEnable
-  name: OnEnable()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_OnEnable
-  commentId: M:Vour.LocationManagerEditor.OnEnable
-  fullName: Vour.LocationManagerEditor.OnEnable()
-  nameWithType: LocationManagerEditor.OnEnable()
-- uid: Vour.LocationManagerEditor.OnEnable*
-  name: OnEnable
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_OnEnable_
-  commentId: Overload:Vour.LocationManagerEditor.OnEnable
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.OnEnable
-  nameWithType: LocationManagerEditor.OnEnable
-- uid: Vour.LocationManagerEditor.OnInspectorGUI
-  name: OnInspectorGUI()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_OnInspectorGUI
-  commentId: M:Vour.LocationManagerEditor.OnInspectorGUI
-  fullName: Vour.LocationManagerEditor.OnInspectorGUI()
-  nameWithType: LocationManagerEditor.OnInspectorGUI()
-- uid: Vour.LocationManagerEditor.OnInspectorGUI*
-  name: OnInspectorGUI
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_OnInspectorGUI_
-  commentId: Overload:Vour.LocationManagerEditor.OnInspectorGUI
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.OnInspectorGUI
-  nameWithType: LocationManagerEditor.OnInspectorGUI
-- uid: Vour.LocationManagerEditor.OpenOnlineDocs
-  name: OpenOnlineDocs()
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_OpenOnlineDocs
-  commentId: M:Vour.LocationManagerEditor.OpenOnlineDocs
-  fullName: Vour.LocationManagerEditor.OpenOnlineDocs()
-  nameWithType: LocationManagerEditor.OpenOnlineDocs()
-- uid: Vour.LocationManagerEditor.OpenOnlineDocs*
-  name: OpenOnlineDocs
-  href: api/Vour.LocationManagerEditor.html#Vour_LocationManagerEditor_OpenOnlineDocs_
-  commentId: Overload:Vour.LocationManagerEditor.OpenOnlineDocs
-  isSpec: "True"
-  fullName: Vour.LocationManagerEditor.OpenOnlineDocs
-  nameWithType: LocationManagerEditor.OpenOnlineDocs
-- uid: Vour.MediaLocation
+- uid: CrizGames.Vour.MediaLocation
   name: MediaLocation
-  href: api/Vour.MediaLocation.html
-  commentId: T:Vour.MediaLocation
-  fullName: Vour.MediaLocation
+  href: api/CrizGames.Vour.MediaLocation.html
+  commentId: T:CrizGames.Vour.MediaLocation
+  fullName: CrizGames.Vour.MediaLocation
   nameWithType: MediaLocation
-- uid: Vour.MediaLocation._3D
+- uid: CrizGames.Vour.MediaLocation._3D
   name: _3D
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation__3D
-  commentId: F:Vour.MediaLocation._3D
-  fullName: Vour.MediaLocation._3D
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation__3D
+  commentId: F:CrizGames.Vour.MediaLocation._3D
+  fullName: CrizGames.Vour.MediaLocation._3D
   nameWithType: MediaLocation._3D
-- uid: Vour.MediaLocation.GetScaleAndOffset(System.Int32,UnityEngine.Vector2@,UnityEngine.Vector2@)
+- uid: CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32,UnityEngine.Vector2@,UnityEngine.Vector2@)
   name: GetScaleAndOffset(Int32, out Vector2, out Vector2)
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_GetScaleAndOffset_System_Int32_UnityEngine_Vector2__UnityEngine_Vector2__
-  commentId: M:Vour.MediaLocation.GetScaleAndOffset(System.Int32,UnityEngine.Vector2@,UnityEngine.Vector2@)
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_GetScaleAndOffset_System_Int32_UnityEngine_Vector2__UnityEngine_Vector2__
+  commentId: M:CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32,UnityEngine.Vector2@,UnityEngine.Vector2@)
   name.vb: GetScaleAndOffset(Int32, ByRef Vector2, ByRef Vector2)
-  fullName: Vour.MediaLocation.GetScaleAndOffset(System.Int32, out UnityEngine.Vector2, out UnityEngine.Vector2)
-  fullName.vb: Vour.MediaLocation.GetScaleAndOffset(System.Int32, ByRef UnityEngine.Vector2, ByRef UnityEngine.Vector2)
+  fullName: CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32, out UnityEngine.Vector2, out UnityEngine.Vector2)
+  fullName.vb: CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32, ByRef UnityEngine.Vector2, ByRef UnityEngine.Vector2)
   nameWithType: MediaLocation.GetScaleAndOffset(Int32, out Vector2, out Vector2)
   nameWithType.vb: MediaLocation.GetScaleAndOffset(Int32, ByRef Vector2, ByRef Vector2)
-- uid: Vour.MediaLocation.GetScaleAndOffset*
+- uid: CrizGames.Vour.MediaLocation.GetScaleAndOffset*
   name: GetScaleAndOffset
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_GetScaleAndOffset_
-  commentId: Overload:Vour.MediaLocation.GetScaleAndOffset
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_GetScaleAndOffset_
+  commentId: Overload:CrizGames.Vour.MediaLocation.GetScaleAndOffset
   isSpec: "True"
-  fullName: Vour.MediaLocation.GetScaleAndOffset
+  fullName: CrizGames.Vour.MediaLocation.GetScaleAndOffset
   nameWithType: MediaLocation.GetScaleAndOffset
-- uid: Vour.MediaLocation.Init
+- uid: CrizGames.Vour.MediaLocation.Init
   name: Init()
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_Init
-  commentId: M:Vour.MediaLocation.Init
-  fullName: Vour.MediaLocation.Init()
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_Init
+  commentId: M:CrizGames.Vour.MediaLocation.Init
+  fullName: CrizGames.Vour.MediaLocation.Init()
   nameWithType: MediaLocation.Init()
-- uid: Vour.MediaLocation.Init*
+- uid: CrizGames.Vour.MediaLocation.Init*
   name: Init
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_Init_
-  commentId: Overload:Vour.MediaLocation.Init
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_Init_
+  commentId: Overload:CrizGames.Vour.MediaLocation.Init
   isSpec: "True"
-  fullName: Vour.MediaLocation.Init
+  fullName: CrizGames.Vour.MediaLocation.Init
   nameWithType: MediaLocation.Init
-- uid: Vour.MediaLocation.rends
+- uid: CrizGames.Vour.MediaLocation.rends
   name: rends
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_rends
-  commentId: F:Vour.MediaLocation.rends
-  fullName: Vour.MediaLocation.rends
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_rends
+  commentId: F:CrizGames.Vour.MediaLocation.rends
+  fullName: CrizGames.Vour.MediaLocation.rends
   nameWithType: MediaLocation.rends
-- uid: Vour.MediaLocation.ResizeWidth
+- uid: CrizGames.Vour.MediaLocation.ResizeWidth
   name: ResizeWidth
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_ResizeWidth
-  commentId: F:Vour.MediaLocation.ResizeWidth
-  fullName: Vour.MediaLocation.ResizeWidth
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_ResizeWidth
+  commentId: F:CrizGames.Vour.MediaLocation.ResizeWidth
+  fullName: CrizGames.Vour.MediaLocation.ResizeWidth
   nameWithType: MediaLocation.ResizeWidth
-- uid: Vour.MediaLocation.RotateToCamDir
+- uid: CrizGames.Vour.MediaLocation.RotateMedia
+  name: RotateMedia()
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_RotateMedia
+  commentId: M:CrizGames.Vour.MediaLocation.RotateMedia
+  fullName: CrizGames.Vour.MediaLocation.RotateMedia()
+  nameWithType: MediaLocation.RotateMedia()
+- uid: CrizGames.Vour.MediaLocation.RotateMedia*
+  name: RotateMedia
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_RotateMedia_
+  commentId: Overload:CrizGames.Vour.MediaLocation.RotateMedia
+  isSpec: "True"
+  fullName: CrizGames.Vour.MediaLocation.RotateMedia
+  nameWithType: MediaLocation.RotateMedia
+- uid: CrizGames.Vour.MediaLocation.RotateToCamDir
   name: RotateToCamDir
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_RotateToCamDir
-  commentId: F:Vour.MediaLocation.RotateToCamDir
-  fullName: Vour.MediaLocation.RotateToCamDir
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_RotateToCamDir
+  commentId: F:CrizGames.Vour.MediaLocation.RotateToCamDir
+  fullName: CrizGames.Vour.MediaLocation.RotateToCamDir
   nameWithType: MediaLocation.RotateToCamDir
-- uid: Vour.MediaLocation.SetMedia(UnityEngine.Texture)
+- uid: CrizGames.Vour.MediaLocation.SetMedia(UnityEngine.Texture)
   name: SetMedia(Texture)
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_SetMedia_UnityEngine_Texture_
-  commentId: M:Vour.MediaLocation.SetMedia(UnityEngine.Texture)
-  fullName: Vour.MediaLocation.SetMedia(UnityEngine.Texture)
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_SetMedia_UnityEngine_Texture_
+  commentId: M:CrizGames.Vour.MediaLocation.SetMedia(UnityEngine.Texture)
+  fullName: CrizGames.Vour.MediaLocation.SetMedia(UnityEngine.Texture)
   nameWithType: MediaLocation.SetMedia(Texture)
-- uid: Vour.MediaLocation.SetMedia*
+- uid: CrizGames.Vour.MediaLocation.SetMedia*
   name: SetMedia
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_SetMedia_
-  commentId: Overload:Vour.MediaLocation.SetMedia
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_SetMedia_
+  commentId: Overload:CrizGames.Vour.MediaLocation.SetMedia
   isSpec: "True"
-  fullName: Vour.MediaLocation.SetMedia
+  fullName: CrizGames.Vour.MediaLocation.SetMedia
   nameWithType: MediaLocation.SetMedia
-- uid: Vour.MediaLocation.Size
+- uid: CrizGames.Vour.MediaLocation.Size
   name: Size
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_Size
-  commentId: F:Vour.MediaLocation.Size
-  fullName: Vour.MediaLocation.Size
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_Size
+  commentId: F:CrizGames.Vour.MediaLocation.Size
+  fullName: CrizGames.Vour.MediaLocation.Size
   nameWithType: MediaLocation.Size
-- uid: Vour.MediaLocation.UpdateSize(UnityEngine.Vector2)
+- uid: CrizGames.Vour.MediaLocation.UpdateSize(UnityEngine.Vector2)
   name: UpdateSize(Vector2)
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_UpdateSize_UnityEngine_Vector2_
-  commentId: M:Vour.MediaLocation.UpdateSize(UnityEngine.Vector2)
-  fullName: Vour.MediaLocation.UpdateSize(UnityEngine.Vector2)
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_UpdateSize_UnityEngine_Vector2_
+  commentId: M:CrizGames.Vour.MediaLocation.UpdateSize(UnityEngine.Vector2)
+  fullName: CrizGames.Vour.MediaLocation.UpdateSize(UnityEngine.Vector2)
   nameWithType: MediaLocation.UpdateSize(Vector2)
-- uid: Vour.MediaLocation.UpdateSize*
+- uid: CrizGames.Vour.MediaLocation.UpdateSize*
   name: UpdateSize
-  href: api/Vour.MediaLocation.html#Vour_MediaLocation_UpdateSize_
-  commentId: Overload:Vour.MediaLocation.UpdateSize
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_UpdateSize_
+  commentId: Overload:CrizGames.Vour.MediaLocation.UpdateSize
   isSpec: "True"
-  fullName: Vour.MediaLocation.UpdateSize
+  fullName: CrizGames.Vour.MediaLocation.UpdateSize
   nameWithType: MediaLocation.UpdateSize
-- uid: Vour.OculusPlayer
+- uid: CrizGames.Vour.OculusPlayer
   name: OculusPlayer
-  href: api/Vour.OculusPlayer.html
-  commentId: T:Vour.OculusPlayer
-  fullName: Vour.OculusPlayer
+  href: api/CrizGames.Vour.OculusPlayer.html
+  commentId: T:CrizGames.Vour.OculusPlayer
+  fullName: CrizGames.Vour.OculusPlayer
   nameWithType: OculusPlayer
-- uid: Vour.OculusPlayer.Init
+- uid: CrizGames.Vour.OculusPlayer.Init
   name: Init()
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_Init
-  commentId: M:Vour.OculusPlayer.Init
-  fullName: Vour.OculusPlayer.Init()
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_Init
+  commentId: M:CrizGames.Vour.OculusPlayer.Init
+  fullName: CrizGames.Vour.OculusPlayer.Init()
   nameWithType: OculusPlayer.Init()
-- uid: Vour.OculusPlayer.Init*
+- uid: CrizGames.Vour.OculusPlayer.Init*
   name: Init
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_Init_
-  commentId: Overload:Vour.OculusPlayer.Init
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_Init_
+  commentId: Overload:CrizGames.Vour.OculusPlayer.Init
   isSpec: "True"
-  fullName: Vour.OculusPlayer.Init
+  fullName: CrizGames.Vour.OculusPlayer.Init
   nameWithType: OculusPlayer.Init
-- uid: Vour.OculusPlayer.laserAvailableColor
+- uid: CrizGames.Vour.OculusPlayer.laserAvailableColor
   name: laserAvailableColor
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_laserAvailableColor
-  commentId: F:Vour.OculusPlayer.laserAvailableColor
-  fullName: Vour.OculusPlayer.laserAvailableColor
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_laserAvailableColor
+  commentId: F:CrizGames.Vour.OculusPlayer.laserAvailableColor
+  fullName: CrizGames.Vour.OculusPlayer.laserAvailableColor
   nameWithType: OculusPlayer.laserAvailableColor
-- uid: Vour.OculusPlayer.laserUnavailableColor
+- uid: CrizGames.Vour.OculusPlayer.laserUnavailableColor
   name: laserUnavailableColor
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_laserUnavailableColor
-  commentId: F:Vour.OculusPlayer.laserUnavailableColor
-  fullName: Vour.OculusPlayer.laserUnavailableColor
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_laserUnavailableColor
+  commentId: F:CrizGames.Vour.OculusPlayer.laserUnavailableColor
+  fullName: CrizGames.Vour.OculusPlayer.laserUnavailableColor
   nameWithType: OculusPlayer.laserUnavailableColor
-- uid: Vour.OculusPlayer.LateUpdate
+- uid: CrizGames.Vour.OculusPlayer.LateUpdate
   name: LateUpdate()
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_LateUpdate
-  commentId: M:Vour.OculusPlayer.LateUpdate
-  fullName: Vour.OculusPlayer.LateUpdate()
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_LateUpdate
+  commentId: M:CrizGames.Vour.OculusPlayer.LateUpdate
+  fullName: CrizGames.Vour.OculusPlayer.LateUpdate()
   nameWithType: OculusPlayer.LateUpdate()
-- uid: Vour.OculusPlayer.LateUpdate*
+- uid: CrizGames.Vour.OculusPlayer.LateUpdate*
   name: LateUpdate
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_LateUpdate_
-  commentId: Overload:Vour.OculusPlayer.LateUpdate
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_LateUpdate_
+  commentId: Overload:CrizGames.Vour.OculusPlayer.LateUpdate
   isSpec: "True"
-  fullName: Vour.OculusPlayer.LateUpdate
+  fullName: CrizGames.Vour.OculusPlayer.LateUpdate
   nameWithType: OculusPlayer.LateUpdate
-- uid: Vour.OculusPlayer.LeftHand
+- uid: CrizGames.Vour.OculusPlayer.LeftHand
   name: LeftHand
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_LeftHand
-  commentId: F:Vour.OculusPlayer.LeftHand
-  fullName: Vour.OculusPlayer.LeftHand
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_LeftHand
+  commentId: F:CrizGames.Vour.OculusPlayer.LeftHand
+  fullName: CrizGames.Vour.OculusPlayer.LeftHand
   nameWithType: OculusPlayer.LeftHand
-- uid: Vour.OculusPlayer.PointerLaser
+- uid: CrizGames.Vour.OculusPlayer.PointerLaser
   name: PointerLaser
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_PointerLaser
-  commentId: F:Vour.OculusPlayer.PointerLaser
-  fullName: Vour.OculusPlayer.PointerLaser
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_PointerLaser
+  commentId: F:CrizGames.Vour.OculusPlayer.PointerLaser
+  fullName: CrizGames.Vour.OculusPlayer.PointerLaser
   nameWithType: OculusPlayer.PointerLaser
-- uid: Vour.OculusPlayer.ResetRotation
+- uid: CrizGames.Vour.OculusPlayer.ResetRotation
   name: ResetRotation()
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_ResetRotation
-  commentId: M:Vour.OculusPlayer.ResetRotation
-  fullName: Vour.OculusPlayer.ResetRotation()
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_ResetRotation
+  commentId: M:CrizGames.Vour.OculusPlayer.ResetRotation
+  fullName: CrizGames.Vour.OculusPlayer.ResetRotation()
   nameWithType: OculusPlayer.ResetRotation()
-- uid: Vour.OculusPlayer.ResetRotation*
+- uid: CrizGames.Vour.OculusPlayer.ResetRotation*
   name: ResetRotation
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_ResetRotation_
-  commentId: Overload:Vour.OculusPlayer.ResetRotation
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_ResetRotation_
+  commentId: Overload:CrizGames.Vour.OculusPlayer.ResetRotation
   isSpec: "True"
-  fullName: Vour.OculusPlayer.ResetRotation
+  fullName: CrizGames.Vour.OculusPlayer.ResetRotation
   nameWithType: OculusPlayer.ResetRotation
-- uid: Vour.OculusPlayer.RightHand
+- uid: CrizGames.Vour.OculusPlayer.RightHand
   name: RightHand
-  href: api/Vour.OculusPlayer.html#Vour_OculusPlayer_RightHand
-  commentId: F:Vour.OculusPlayer.RightHand
-  fullName: Vour.OculusPlayer.RightHand
+  href: api/CrizGames.Vour.OculusPlayer.html#CrizGames_Vour_OculusPlayer_RightHand
+  commentId: F:CrizGames.Vour.OculusPlayer.RightHand
+  fullName: CrizGames.Vour.OculusPlayer.RightHand
   nameWithType: OculusPlayer.RightHand
-- uid: Vour.Player
+- uid: CrizGames.Vour.Player
   name: Player
-  href: api/Vour.Player.html
-  commentId: T:Vour.Player
-  fullName: Vour.Player
+  href: api/CrizGames.Vour.Player.html
+  commentId: T:CrizGames.Vour.Player
+  fullName: CrizGames.Vour.Player
   nameWithType: Player
-- uid: Vour.Player.CenterCamera
+- uid: CrizGames.Vour.Player.CenterCamera
   name: CenterCamera
-  href: api/Vour.Player.html#Vour_Player_CenterCamera
-  commentId: F:Vour.Player.CenterCamera
-  fullName: Vour.Player.CenterCamera
+  href: api/CrizGames.Vour.Player.html#CrizGames_Vour_Player_CenterCamera
+  commentId: F:CrizGames.Vour.Player.CenterCamera
+  fullName: CrizGames.Vour.Player.CenterCamera
   nameWithType: Player.CenterCamera
-- uid: Vour.Player.DesktopPlayer
+- uid: CrizGames.Vour.Player.DesktopPlayer
   name: DesktopPlayer
-  href: api/Vour.Player.html#Vour_Player_DesktopPlayer
-  commentId: F:Vour.Player.DesktopPlayer
-  fullName: Vour.Player.DesktopPlayer
+  href: api/CrizGames.Vour.Player.html#CrizGames_Vour_Player_DesktopPlayer
+  commentId: F:CrizGames.Vour.Player.DesktopPlayer
+  fullName: CrizGames.Vour.Player.DesktopPlayer
   nameWithType: Player.DesktopPlayer
-- uid: Vour.Player.OculusPlayer
+- uid: CrizGames.Vour.Player.OculusPlayer
   name: OculusPlayer
-  href: api/Vour.Player.html#Vour_Player_OculusPlayer
-  commentId: F:Vour.Player.OculusPlayer
-  fullName: Vour.Player.OculusPlayer
+  href: api/CrizGames.Vour.Player.html#CrizGames_Vour_Player_OculusPlayer
+  commentId: F:CrizGames.Vour.Player.OculusPlayer
+  fullName: CrizGames.Vour.Player.OculusPlayer
   nameWithType: Player.OculusPlayer
-- uid: Vour.PlayerBase
+- uid: CrizGames.Vour.PlayerBase
   name: PlayerBase
-  href: api/Vour.PlayerBase.html
-  commentId: T:Vour.PlayerBase
-  fullName: Vour.PlayerBase
+  href: api/CrizGames.Vour.PlayerBase.html
+  commentId: T:CrizGames.Vour.PlayerBase
+  fullName: CrizGames.Vour.PlayerBase
   nameWithType: PlayerBase
-- uid: Vour.PlayerBase.CurrentInteractable
+- uid: CrizGames.Vour.PlayerBase.CurrentInteractable
   name: CurrentInteractable
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_CurrentInteractable
-  commentId: F:Vour.PlayerBase.CurrentInteractable
-  fullName: Vour.PlayerBase.CurrentInteractable
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_CurrentInteractable
+  commentId: F:CrizGames.Vour.PlayerBase.CurrentInteractable
+  fullName: CrizGames.Vour.PlayerBase.CurrentInteractable
   nameWithType: PlayerBase.CurrentInteractable
-- uid: Vour.PlayerBase.GetCenterCam
+- uid: CrizGames.Vour.PlayerBase.GetCenterCam
   name: GetCenterCam()
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_GetCenterCam
-  commentId: M:Vour.PlayerBase.GetCenterCam
-  fullName: Vour.PlayerBase.GetCenterCam()
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_GetCenterCam
+  commentId: M:CrizGames.Vour.PlayerBase.GetCenterCam
+  fullName: CrizGames.Vour.PlayerBase.GetCenterCam()
   nameWithType: PlayerBase.GetCenterCam()
-- uid: Vour.PlayerBase.GetCenterCam*
+- uid: CrizGames.Vour.PlayerBase.GetCenterCam*
   name: GetCenterCam
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_GetCenterCam_
-  commentId: Overload:Vour.PlayerBase.GetCenterCam
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_GetCenterCam_
+  commentId: Overload:CrizGames.Vour.PlayerBase.GetCenterCam
   isSpec: "True"
-  fullName: Vour.PlayerBase.GetCenterCam
+  fullName: CrizGames.Vour.PlayerBase.GetCenterCam
   nameWithType: PlayerBase.GetCenterCam
-- uid: Vour.PlayerBase.Init
+- uid: CrizGames.Vour.PlayerBase.Init
   name: Init()
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_Init
-  commentId: M:Vour.PlayerBase.Init
-  fullName: Vour.PlayerBase.Init()
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_Init
+  commentId: M:CrizGames.Vour.PlayerBase.Init
+  fullName: CrizGames.Vour.PlayerBase.Init()
   nameWithType: PlayerBase.Init()
-- uid: Vour.PlayerBase.Init*
+- uid: CrizGames.Vour.PlayerBase.Init*
   name: Init
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_Init_
-  commentId: Overload:Vour.PlayerBase.Init
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_Init_
+  commentId: Overload:CrizGames.Vour.PlayerBase.Init
   isSpec: "True"
-  fullName: Vour.PlayerBase.Init
+  fullName: CrizGames.Vour.PlayerBase.Init
   nameWithType: PlayerBase.Init
-- uid: Vour.PlayerBase.Instance
+- uid: CrizGames.Vour.PlayerBase.Instance
   name: Instance
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_Instance
-  commentId: F:Vour.PlayerBase.Instance
-  fullName: Vour.PlayerBase.Instance
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_Instance
+  commentId: F:CrizGames.Vour.PlayerBase.Instance
+  fullName: CrizGames.Vour.PlayerBase.Instance
   nameWithType: PlayerBase.Instance
-- uid: Vour.PlayerBase.PointerPos
+- uid: CrizGames.Vour.PlayerBase.PointerPos
   name: PointerPos
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_PointerPos
-  commentId: F:Vour.PlayerBase.PointerPos
-  fullName: Vour.PlayerBase.PointerPos
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_PointerPos
+  commentId: F:CrizGames.Vour.PlayerBase.PointerPos
+  fullName: CrizGames.Vour.PlayerBase.PointerPos
   nameWithType: PlayerBase.PointerPos
-- uid: Vour.PlayerBase.RaycastInteractable(UnityEngine.Vector3,UnityEngine.Vector3)
+- uid: CrizGames.Vour.PlayerBase.RaycastInteractable(UnityEngine.Vector3,UnityEngine.Vector3)
   name: RaycastInteractable(Vector3, Vector3)
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_RaycastInteractable_UnityEngine_Vector3_UnityEngine_Vector3_
-  commentId: M:Vour.PlayerBase.RaycastInteractable(UnityEngine.Vector3,UnityEngine.Vector3)
-  fullName: Vour.PlayerBase.RaycastInteractable(UnityEngine.Vector3, UnityEngine.Vector3)
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_RaycastInteractable_UnityEngine_Vector3_UnityEngine_Vector3_
+  commentId: M:CrizGames.Vour.PlayerBase.RaycastInteractable(UnityEngine.Vector3,UnityEngine.Vector3)
+  fullName: CrizGames.Vour.PlayerBase.RaycastInteractable(UnityEngine.Vector3, UnityEngine.Vector3)
   nameWithType: PlayerBase.RaycastInteractable(Vector3, Vector3)
-- uid: Vour.PlayerBase.RaycastInteractable*
+- uid: CrizGames.Vour.PlayerBase.RaycastInteractable*
   name: RaycastInteractable
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_RaycastInteractable_
-  commentId: Overload:Vour.PlayerBase.RaycastInteractable
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_RaycastInteractable_
+  commentId: Overload:CrizGames.Vour.PlayerBase.RaycastInteractable
   isSpec: "True"
-  fullName: Vour.PlayerBase.RaycastInteractable
+  fullName: CrizGames.Vour.PlayerBase.RaycastInteractable
   nameWithType: PlayerBase.RaycastInteractable
-- uid: Vour.PlayerBase.ResetRotation
+- uid: CrizGames.Vour.PlayerBase.ResetRotation
   name: ResetRotation()
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_ResetRotation
-  commentId: M:Vour.PlayerBase.ResetRotation
-  fullName: Vour.PlayerBase.ResetRotation()
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_ResetRotation
+  commentId: M:CrizGames.Vour.PlayerBase.ResetRotation
+  fullName: CrizGames.Vour.PlayerBase.ResetRotation()
   nameWithType: PlayerBase.ResetRotation()
-- uid: Vour.PlayerBase.ResetRotation*
+- uid: CrizGames.Vour.PlayerBase.ResetRotation*
   name: ResetRotation
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_ResetRotation_
-  commentId: Overload:Vour.PlayerBase.ResetRotation
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_ResetRotation_
+  commentId: Overload:CrizGames.Vour.PlayerBase.ResetRotation
   isSpec: "True"
-  fullName: Vour.PlayerBase.ResetRotation
+  fullName: CrizGames.Vour.PlayerBase.ResetRotation
   nameWithType: PlayerBase.ResetRotation
-- uid: Vour.PlayerBase.SetCenterCam(System.Boolean)
+- uid: CrizGames.Vour.PlayerBase.SetCenterCam(System.Boolean)
   name: SetCenterCam(Boolean)
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_SetCenterCam_System_Boolean_
-  commentId: M:Vour.PlayerBase.SetCenterCam(System.Boolean)
-  fullName: Vour.PlayerBase.SetCenterCam(System.Boolean)
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_SetCenterCam_System_Boolean_
+  commentId: M:CrizGames.Vour.PlayerBase.SetCenterCam(System.Boolean)
+  fullName: CrizGames.Vour.PlayerBase.SetCenterCam(System.Boolean)
   nameWithType: PlayerBase.SetCenterCam(Boolean)
-- uid: Vour.PlayerBase.SetCenterCam*
+- uid: CrizGames.Vour.PlayerBase.SetCenterCam*
   name: SetCenterCam
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_SetCenterCam_
-  commentId: Overload:Vour.PlayerBase.SetCenterCam
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_SetCenterCam_
+  commentId: Overload:CrizGames.Vour.PlayerBase.SetCenterCam
   isSpec: "True"
-  fullName: Vour.PlayerBase.SetCenterCam
+  fullName: CrizGames.Vour.PlayerBase.SetCenterCam
   nameWithType: PlayerBase.SetCenterCam
-- uid: Vour.PlayerBase.UpdateInteractable(Vour.Interactable)
+- uid: CrizGames.Vour.PlayerBase.UpdateInteractable(CrizGames.Vour.Interactable)
   name: UpdateInteractable(Interactable)
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_UpdateInteractable_Vour_Interactable_
-  commentId: M:Vour.PlayerBase.UpdateInteractable(Vour.Interactable)
-  fullName: Vour.PlayerBase.UpdateInteractable(Vour.Interactable)
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_UpdateInteractable_CrizGames_Vour_Interactable_
+  commentId: M:CrizGames.Vour.PlayerBase.UpdateInteractable(CrizGames.Vour.Interactable)
+  fullName: CrizGames.Vour.PlayerBase.UpdateInteractable(CrizGames.Vour.Interactable)
   nameWithType: PlayerBase.UpdateInteractable(Interactable)
-- uid: Vour.PlayerBase.UpdateInteractable*
+- uid: CrizGames.Vour.PlayerBase.UpdateInteractable*
   name: UpdateInteractable
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_UpdateInteractable_
-  commentId: Overload:Vour.PlayerBase.UpdateInteractable
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_UpdateInteractable_
+  commentId: Overload:CrizGames.Vour.PlayerBase.UpdateInteractable
   isSpec: "True"
-  fullName: Vour.PlayerBase.UpdateInteractable
+  fullName: CrizGames.Vour.PlayerBase.UpdateInteractable
   nameWithType: PlayerBase.UpdateInteractable
-- uid: Vour.PlayerBase.yOffset
+- uid: CrizGames.Vour.PlayerBase.yOffset
   name: yOffset
-  href: api/Vour.PlayerBase.html#Vour_PlayerBase_yOffset
-  commentId: F:Vour.PlayerBase.yOffset
-  fullName: Vour.PlayerBase.yOffset
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_yOffset
+  commentId: F:CrizGames.Vour.PlayerBase.yOffset
+  fullName: CrizGames.Vour.PlayerBase.yOffset
   nameWithType: PlayerBase.yOffset
-- uid: Vour.PlayerEditor
-  name: PlayerEditor
-  href: api/Vour.PlayerEditor.html
-  commentId: T:Vour.PlayerEditor
-  fullName: Vour.PlayerEditor
-  nameWithType: PlayerEditor
-- uid: Vour.PlayerEditor.AddPlayer
-  name: AddPlayer()
-  href: api/Vour.PlayerEditor.html#Vour_PlayerEditor_AddPlayer
-  commentId: M:Vour.PlayerEditor.AddPlayer
-  fullName: Vour.PlayerEditor.AddPlayer()
-  nameWithType: PlayerEditor.AddPlayer()
-- uid: Vour.PlayerEditor.AddPlayer*
-  name: AddPlayer
-  href: api/Vour.PlayerEditor.html#Vour_PlayerEditor_AddPlayer_
-  commentId: Overload:Vour.PlayerEditor.AddPlayer
-  isSpec: "True"
-  fullName: Vour.PlayerEditor.AddPlayer
-  nameWithType: PlayerEditor.AddPlayer
-- uid: Vour.PlayerEditor.OnEnable
-  name: OnEnable()
-  href: api/Vour.PlayerEditor.html#Vour_PlayerEditor_OnEnable
-  commentId: M:Vour.PlayerEditor.OnEnable
-  fullName: Vour.PlayerEditor.OnEnable()
-  nameWithType: PlayerEditor.OnEnable()
-- uid: Vour.PlayerEditor.OnEnable*
-  name: OnEnable
-  href: api/Vour.PlayerEditor.html#Vour_PlayerEditor_OnEnable_
-  commentId: Overload:Vour.PlayerEditor.OnEnable
-  isSpec: "True"
-  fullName: Vour.PlayerEditor.OnEnable
-  nameWithType: PlayerEditor.OnEnable
-- uid: Vour.PlayerEditor.OnInspectorGUI
-  name: OnInspectorGUI()
-  href: api/Vour.PlayerEditor.html#Vour_PlayerEditor_OnInspectorGUI
-  commentId: M:Vour.PlayerEditor.OnInspectorGUI
-  fullName: Vour.PlayerEditor.OnInspectorGUI()
-  nameWithType: PlayerEditor.OnInspectorGUI()
-- uid: Vour.PlayerEditor.OnInspectorGUI*
-  name: OnInspectorGUI
-  href: api/Vour.PlayerEditor.html#Vour_PlayerEditor_OnInspectorGUI_
-  commentId: Overload:Vour.PlayerEditor.OnInspectorGUI
-  isSpec: "True"
-  fullName: Vour.PlayerEditor.OnInspectorGUI
-  nameWithType: PlayerEditor.OnInspectorGUI
-- uid: Vour.SceneLocation
+- uid: CrizGames.Vour.SceneLocation
   name: SceneLocation
-  href: api/Vour.SceneLocation.html
-  commentId: T:Vour.SceneLocation
-  fullName: Vour.SceneLocation
+  href: api/CrizGames.Vour.SceneLocation.html
+  commentId: T:CrizGames.Vour.SceneLocation
+  fullName: CrizGames.Vour.SceneLocation
   nameWithType: SceneLocation
-- uid: Vour.SceneLocation.RemoveScene
+- uid: CrizGames.Vour.SceneLocation.RemoveScene
   name: RemoveScene()
-  href: api/Vour.SceneLocation.html#Vour_SceneLocation_RemoveScene
-  commentId: M:Vour.SceneLocation.RemoveScene
-  fullName: Vour.SceneLocation.RemoveScene()
+  href: api/CrizGames.Vour.SceneLocation.html#CrizGames_Vour_SceneLocation_RemoveScene
+  commentId: M:CrizGames.Vour.SceneLocation.RemoveScene
+  fullName: CrizGames.Vour.SceneLocation.RemoveScene()
   nameWithType: SceneLocation.RemoveScene()
-- uid: Vour.SceneLocation.RemoveScene*
+- uid: CrizGames.Vour.SceneLocation.RemoveScene*
   name: RemoveScene
-  href: api/Vour.SceneLocation.html#Vour_SceneLocation_RemoveScene_
-  commentId: Overload:Vour.SceneLocation.RemoveScene
+  href: api/CrizGames.Vour.SceneLocation.html#CrizGames_Vour_SceneLocation_RemoveScene_
+  commentId: Overload:CrizGames.Vour.SceneLocation.RemoveScene
   isSpec: "True"
-  fullName: Vour.SceneLocation.RemoveScene
+  fullName: CrizGames.Vour.SceneLocation.RemoveScene
   nameWithType: SceneLocation.RemoveScene
-- uid: Vour.SceneLocation.UpdateLocation
+- uid: CrizGames.Vour.SceneLocation.UpdateLocation
   name: UpdateLocation()
-  href: api/Vour.SceneLocation.html#Vour_SceneLocation_UpdateLocation
-  commentId: M:Vour.SceneLocation.UpdateLocation
-  fullName: Vour.SceneLocation.UpdateLocation()
+  href: api/CrizGames.Vour.SceneLocation.html#CrizGames_Vour_SceneLocation_UpdateLocation
+  commentId: M:CrizGames.Vour.SceneLocation.UpdateLocation
+  fullName: CrizGames.Vour.SceneLocation.UpdateLocation()
   nameWithType: SceneLocation.UpdateLocation()
-- uid: Vour.SceneLocation.UpdateLocation*
+- uid: CrizGames.Vour.SceneLocation.UpdateLocation*
   name: UpdateLocation
-  href: api/Vour.SceneLocation.html#Vour_SceneLocation_UpdateLocation_
-  commentId: Overload:Vour.SceneLocation.UpdateLocation
+  href: api/CrizGames.Vour.SceneLocation.html#CrizGames_Vour_SceneLocation_UpdateLocation_
+  commentId: Overload:CrizGames.Vour.SceneLocation.UpdateLocation
   isSpec: "True"
-  fullName: Vour.SceneLocation.UpdateLocation
+  fullName: CrizGames.Vour.SceneLocation.UpdateLocation
   nameWithType: SceneLocation.UpdateLocation
-- uid: Vour.TeleportArea
+- uid: CrizGames.Vour.TeleportArea
   name: TeleportArea
-  href: api/Vour.TeleportArea.html
-  commentId: T:Vour.TeleportArea
-  fullName: Vour.TeleportArea
+  href: api/CrizGames.Vour.TeleportArea.html
+  commentId: T:CrizGames.Vour.TeleportArea
+  fullName: CrizGames.Vour.TeleportArea
   nameWithType: TeleportArea
-- uid: Vour.TeleportArea.Interact
+- uid: CrizGames.Vour.TeleportArea.Interact
   name: Interact()
-  href: api/Vour.TeleportArea.html#Vour_TeleportArea_Interact
-  commentId: M:Vour.TeleportArea.Interact
-  fullName: Vour.TeleportArea.Interact()
+  href: api/CrizGames.Vour.TeleportArea.html#CrizGames_Vour_TeleportArea_Interact
+  commentId: M:CrizGames.Vour.TeleportArea.Interact
+  fullName: CrizGames.Vour.TeleportArea.Interact()
   nameWithType: TeleportArea.Interact()
-- uid: Vour.TeleportArea.Interact*
+- uid: CrizGames.Vour.TeleportArea.Interact*
   name: Interact
-  href: api/Vour.TeleportArea.html#Vour_TeleportArea_Interact_
-  commentId: Overload:Vour.TeleportArea.Interact
+  href: api/CrizGames.Vour.TeleportArea.html#CrizGames_Vour_TeleportArea_Interact_
+  commentId: Overload:CrizGames.Vour.TeleportArea.Interact
   isSpec: "True"
-  fullName: Vour.TeleportArea.Interact
+  fullName: CrizGames.Vour.TeleportArea.Interact
   nameWithType: TeleportArea.Interact
-- uid: Vour.TeleportPoint
+- uid: CrizGames.Vour.TeleportPoint
   name: TeleportPoint
-  href: api/Vour.TeleportPoint.html
-  commentId: T:Vour.TeleportPoint
-  fullName: Vour.TeleportPoint
+  href: api/CrizGames.Vour.TeleportPoint.html
+  commentId: T:CrizGames.Vour.TeleportPoint
+  fullName: CrizGames.Vour.TeleportPoint
   nameWithType: TeleportPoint
-- uid: Vour.TeleportPoint.Awake
+- uid: CrizGames.Vour.TeleportPoint.Awake
   name: Awake()
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_Awake
-  commentId: M:Vour.TeleportPoint.Awake
-  fullName: Vour.TeleportPoint.Awake()
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_Awake
+  commentId: M:CrizGames.Vour.TeleportPoint.Awake
+  fullName: CrizGames.Vour.TeleportPoint.Awake()
   nameWithType: TeleportPoint.Awake()
-- uid: Vour.TeleportPoint.Awake*
+- uid: CrizGames.Vour.TeleportPoint.Awake*
   name: Awake
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_Awake_
-  commentId: Overload:Vour.TeleportPoint.Awake
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_Awake_
+  commentId: Overload:CrizGames.Vour.TeleportPoint.Awake
   isSpec: "True"
-  fullName: Vour.TeleportPoint.Awake
+  fullName: CrizGames.Vour.TeleportPoint.Awake
   nameWithType: TeleportPoint.Awake
-- uid: Vour.TeleportPoint.Interact
+- uid: CrizGames.Vour.TeleportPoint.Interact
   name: Interact()
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_Interact
-  commentId: M:Vour.TeleportPoint.Interact
-  fullName: Vour.TeleportPoint.Interact()
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_Interact
+  commentId: M:CrizGames.Vour.TeleportPoint.Interact
+  fullName: CrizGames.Vour.TeleportPoint.Interact()
   nameWithType: TeleportPoint.Interact()
-- uid: Vour.TeleportPoint.Interact*
+- uid: CrizGames.Vour.TeleportPoint.Interact*
   name: Interact
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_Interact_
-  commentId: Overload:Vour.TeleportPoint.Interact
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_Interact_
+  commentId: Overload:CrizGames.Vour.TeleportPoint.Interact
   isSpec: "True"
-  fullName: Vour.TeleportPoint.Interact
+  fullName: CrizGames.Vour.TeleportPoint.Interact
   nameWithType: TeleportPoint.Interact
-- uid: Vour.TeleportPoint.OnPointerOverObjEnter
+- uid: CrizGames.Vour.TeleportPoint.OnPointerOverObjEnter
   name: OnPointerOverObjEnter()
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_OnPointerOverObjEnter
-  commentId: M:Vour.TeleportPoint.OnPointerOverObjEnter
-  fullName: Vour.TeleportPoint.OnPointerOverObjEnter()
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_OnPointerOverObjEnter
+  commentId: M:CrizGames.Vour.TeleportPoint.OnPointerOverObjEnter
+  fullName: CrizGames.Vour.TeleportPoint.OnPointerOverObjEnter()
   nameWithType: TeleportPoint.OnPointerOverObjEnter()
-- uid: Vour.TeleportPoint.OnPointerOverObjEnter*
+- uid: CrizGames.Vour.TeleportPoint.OnPointerOverObjEnter*
   name: OnPointerOverObjEnter
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_OnPointerOverObjEnter_
-  commentId: Overload:Vour.TeleportPoint.OnPointerOverObjEnter
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_OnPointerOverObjEnter_
+  commentId: Overload:CrizGames.Vour.TeleportPoint.OnPointerOverObjEnter
   isSpec: "True"
-  fullName: Vour.TeleportPoint.OnPointerOverObjEnter
+  fullName: CrizGames.Vour.TeleportPoint.OnPointerOverObjEnter
   nameWithType: TeleportPoint.OnPointerOverObjEnter
-- uid: Vour.TeleportPoint.OnPointerOverObjExit
+- uid: CrizGames.Vour.TeleportPoint.OnPointerOverObjExit
   name: OnPointerOverObjExit()
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_OnPointerOverObjExit
-  commentId: M:Vour.TeleportPoint.OnPointerOverObjExit
-  fullName: Vour.TeleportPoint.OnPointerOverObjExit()
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_OnPointerOverObjExit
+  commentId: M:CrizGames.Vour.TeleportPoint.OnPointerOverObjExit
+  fullName: CrizGames.Vour.TeleportPoint.OnPointerOverObjExit()
   nameWithType: TeleportPoint.OnPointerOverObjExit()
-- uid: Vour.TeleportPoint.OnPointerOverObjExit*
+- uid: CrizGames.Vour.TeleportPoint.OnPointerOverObjExit*
   name: OnPointerOverObjExit
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_OnPointerOverObjExit_
-  commentId: Overload:Vour.TeleportPoint.OnPointerOverObjExit
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_OnPointerOverObjExit_
+  commentId: Overload:CrizGames.Vour.TeleportPoint.OnPointerOverObjExit
   isSpec: "True"
-  fullName: Vour.TeleportPoint.OnPointerOverObjExit
+  fullName: CrizGames.Vour.TeleportPoint.OnPointerOverObjExit
   nameWithType: TeleportPoint.OnPointerOverObjExit
-- uid: Vour.TeleportPoint.TargetLocation
+- uid: CrizGames.Vour.TeleportPoint.TargetLocation
   name: TargetLocation
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_TargetLocation
-  commentId: F:Vour.TeleportPoint.TargetLocation
-  fullName: Vour.TeleportPoint.TargetLocation
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_TargetLocation
+  commentId: F:CrizGames.Vour.TeleportPoint.TargetLocation
+  fullName: CrizGames.Vour.TeleportPoint.TargetLocation
   nameWithType: TeleportPoint.TargetLocation
-- uid: Vour.TeleportPoint.Teleport
+- uid: CrizGames.Vour.TeleportPoint.Teleport
   name: Teleport()
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_Teleport
-  commentId: M:Vour.TeleportPoint.Teleport
-  fullName: Vour.TeleportPoint.Teleport()
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_Teleport
+  commentId: M:CrizGames.Vour.TeleportPoint.Teleport
+  fullName: CrizGames.Vour.TeleportPoint.Teleport()
   nameWithType: TeleportPoint.Teleport()
-- uid: Vour.TeleportPoint.Teleport*
+- uid: CrizGames.Vour.TeleportPoint.Teleport*
   name: Teleport
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_Teleport_
-  commentId: Overload:Vour.TeleportPoint.Teleport
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_Teleport_
+  commentId: Overload:CrizGames.Vour.TeleportPoint.Teleport
   isSpec: "True"
-  fullName: Vour.TeleportPoint.Teleport
+  fullName: CrizGames.Vour.TeleportPoint.Teleport
   nameWithType: TeleportPoint.Teleport
-- uid: Vour.TeleportPoint.teleportType
+- uid: CrizGames.Vour.TeleportPoint.teleportType
   name: teleportType
-  href: api/Vour.TeleportPoint.html#Vour_TeleportPoint_teleportType
-  commentId: F:Vour.TeleportPoint.teleportType
-  fullName: Vour.TeleportPoint.teleportType
+  href: api/CrizGames.Vour.TeleportPoint.html#CrizGames_Vour_TeleportPoint_teleportType
+  commentId: F:CrizGames.Vour.TeleportPoint.teleportType
+  fullName: CrizGames.Vour.TeleportPoint.teleportType
   nameWithType: TeleportPoint.teleportType
-- uid: Vour.TeleportPoint.TeleportType
+- uid: CrizGames.Vour.TeleportPoint.TeleportType
   name: TeleportPoint.TeleportType
-  href: api/Vour.TeleportPoint.TeleportType.html
-  commentId: T:Vour.TeleportPoint.TeleportType
-  fullName: Vour.TeleportPoint.TeleportType
+  href: api/CrizGames.Vour.TeleportPoint.TeleportType.html
+  commentId: T:CrizGames.Vour.TeleportPoint.TeleportType
+  fullName: CrizGames.Vour.TeleportPoint.TeleportType
   nameWithType: TeleportPoint.TeleportType
-- uid: Vour.TeleportPoint.TeleportType.SwitchLocation
+- uid: CrizGames.Vour.TeleportPoint.TeleportType.SwitchLocation
   name: SwitchLocation
-  href: api/Vour.TeleportPoint.TeleportType.html#Vour_TeleportPoint_TeleportType_SwitchLocation
-  commentId: F:Vour.TeleportPoint.TeleportType.SwitchLocation
-  fullName: Vour.TeleportPoint.TeleportType.SwitchLocation
+  href: api/CrizGames.Vour.TeleportPoint.TeleportType.html#CrizGames_Vour_TeleportPoint_TeleportType_SwitchLocation
+  commentId: F:CrizGames.Vour.TeleportPoint.TeleportType.SwitchLocation
+  fullName: CrizGames.Vour.TeleportPoint.TeleportType.SwitchLocation
   nameWithType: TeleportPoint.TeleportType.SwitchLocation
-- uid: Vour.TeleportPoint.TeleportType.UpdatePosition
+- uid: CrizGames.Vour.TeleportPoint.TeleportType.UpdatePosition
   name: UpdatePosition
-  href: api/Vour.TeleportPoint.TeleportType.html#Vour_TeleportPoint_TeleportType_UpdatePosition
-  commentId: F:Vour.TeleportPoint.TeleportType.UpdatePosition
-  fullName: Vour.TeleportPoint.TeleportType.UpdatePosition
+  href: api/CrizGames.Vour.TeleportPoint.TeleportType.html#CrizGames_Vour_TeleportPoint_TeleportType_UpdatePosition
+  commentId: F:CrizGames.Vour.TeleportPoint.TeleportType.UpdatePosition
+  fullName: CrizGames.Vour.TeleportPoint.TeleportType.UpdatePosition
   nameWithType: TeleportPoint.TeleportType.UpdatePosition
-- uid: Vour.TeleportPointEditor
-  name: TeleportPointEditor
-  href: api/Vour.TeleportPointEditor.html
-  commentId: T:Vour.TeleportPointEditor
-  fullName: Vour.TeleportPointEditor
-  nameWithType: TeleportPointEditor
-- uid: Vour.TeleportPointEditor.OnInspectorGUI
-  name: OnInspectorGUI()
-  href: api/Vour.TeleportPointEditor.html#Vour_TeleportPointEditor_OnInspectorGUI
-  commentId: M:Vour.TeleportPointEditor.OnInspectorGUI
-  fullName: Vour.TeleportPointEditor.OnInspectorGUI()
-  nameWithType: TeleportPointEditor.OnInspectorGUI()
-- uid: Vour.TeleportPointEditor.OnInspectorGUI*
-  name: OnInspectorGUI
-  href: api/Vour.TeleportPointEditor.html#Vour_TeleportPointEditor_OnInspectorGUI_
-  commentId: Overload:Vour.TeleportPointEditor.OnInspectorGUI
-  isSpec: "True"
-  fullName: Vour.TeleportPointEditor.OnInspectorGUI
-  nameWithType: TeleportPointEditor.OnInspectorGUI
-- uid: Vour.VideoLocation
+- uid: CrizGames.Vour.VideoLocation
   name: VideoLocation
-  href: api/Vour.VideoLocation.html
-  commentId: T:Vour.VideoLocation
-  fullName: Vour.VideoLocation
+  href: api/CrizGames.Vour.VideoLocation.html
+  commentId: T:CrizGames.Vour.VideoLocation
+  fullName: CrizGames.Vour.VideoLocation
   nameWithType: VideoLocation
-- uid: Vour.VideoLocation.Init
+- uid: CrizGames.Vour.VideoLocation.Init
   name: Init()
-  href: api/Vour.VideoLocation.html#Vour_VideoLocation_Init
-  commentId: M:Vour.VideoLocation.Init
-  fullName: Vour.VideoLocation.Init()
+  href: api/CrizGames.Vour.VideoLocation.html#CrizGames_Vour_VideoLocation_Init
+  commentId: M:CrizGames.Vour.VideoLocation.Init
+  fullName: CrizGames.Vour.VideoLocation.Init()
   nameWithType: VideoLocation.Init()
-- uid: Vour.VideoLocation.Init*
+- uid: CrizGames.Vour.VideoLocation.Init*
   name: Init
-  href: api/Vour.VideoLocation.html#Vour_VideoLocation_Init_
-  commentId: Overload:Vour.VideoLocation.Init
+  href: api/CrizGames.Vour.VideoLocation.html#CrizGames_Vour_VideoLocation_Init_
+  commentId: Overload:CrizGames.Vour.VideoLocation.Init
   isSpec: "True"
-  fullName: Vour.VideoLocation.Init
+  fullName: CrizGames.Vour.VideoLocation.Init
   nameWithType: VideoLocation.Init
-- uid: Vour.VideoLocation.Loop
+- uid: CrizGames.Vour.VideoLocation.Loop
   name: Loop
-  href: api/Vour.VideoLocation.html#Vour_VideoLocation_Loop
-  commentId: F:Vour.VideoLocation.Loop
-  fullName: Vour.VideoLocation.Loop
+  href: api/CrizGames.Vour.VideoLocation.html#CrizGames_Vour_VideoLocation_Loop
+  commentId: F:CrizGames.Vour.VideoLocation.Loop
+  fullName: CrizGames.Vour.VideoLocation.Loop
   nameWithType: VideoLocation.Loop
-- uid: Vour.VideoLocation.OnDisable
+- uid: CrizGames.Vour.VideoLocation.OnDisable
   name: OnDisable()
-  href: api/Vour.VideoLocation.html#Vour_VideoLocation_OnDisable
-  commentId: M:Vour.VideoLocation.OnDisable
-  fullName: Vour.VideoLocation.OnDisable()
+  href: api/CrizGames.Vour.VideoLocation.html#CrizGames_Vour_VideoLocation_OnDisable
+  commentId: M:CrizGames.Vour.VideoLocation.OnDisable
+  fullName: CrizGames.Vour.VideoLocation.OnDisable()
   nameWithType: VideoLocation.OnDisable()
-- uid: Vour.VideoLocation.OnDisable*
+- uid: CrizGames.Vour.VideoLocation.OnDisable*
   name: OnDisable
-  href: api/Vour.VideoLocation.html#Vour_VideoLocation_OnDisable_
-  commentId: Overload:Vour.VideoLocation.OnDisable
+  href: api/CrizGames.Vour.VideoLocation.html#CrizGames_Vour_VideoLocation_OnDisable_
+  commentId: Overload:CrizGames.Vour.VideoLocation.OnDisable
   isSpec: "True"
-  fullName: Vour.VideoLocation.OnDisable
+  fullName: CrizGames.Vour.VideoLocation.OnDisable
   nameWithType: VideoLocation.OnDisable
-- uid: Vour.VideoLocation.UpdateLocation
+- uid: CrizGames.Vour.VideoLocation.UpdateLocation
   name: UpdateLocation()
-  href: api/Vour.VideoLocation.html#Vour_VideoLocation_UpdateLocation
-  commentId: M:Vour.VideoLocation.UpdateLocation
-  fullName: Vour.VideoLocation.UpdateLocation()
+  href: api/CrizGames.Vour.VideoLocation.html#CrizGames_Vour_VideoLocation_UpdateLocation
+  commentId: M:CrizGames.Vour.VideoLocation.UpdateLocation
+  fullName: CrizGames.Vour.VideoLocation.UpdateLocation()
   nameWithType: VideoLocation.UpdateLocation()
-- uid: Vour.VideoLocation.UpdateLocation*
+- uid: CrizGames.Vour.VideoLocation.UpdateLocation*
   name: UpdateLocation
-  href: api/Vour.VideoLocation.html#Vour_VideoLocation_UpdateLocation_
-  commentId: Overload:Vour.VideoLocation.UpdateLocation
+  href: api/CrizGames.Vour.VideoLocation.html#CrizGames_Vour_VideoLocation_UpdateLocation_
+  commentId: Overload:CrizGames.Vour.VideoLocation.UpdateLocation
   isSpec: "True"
-  fullName: Vour.VideoLocation.UpdateLocation
+  fullName: CrizGames.Vour.VideoLocation.UpdateLocation
   nameWithType: VideoLocation.UpdateLocation

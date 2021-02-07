@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class TeleportPoint
+    <title>Class DesktopPlayer
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class TeleportPoint
+    <meta name="title" content="Class DesktopPlayer
    ">
     <meta name="generator" content="docfx 2.56.5.0">
     
@@ -69,12 +69,13 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="Vour.TeleportPoint">
+            <article class="content wrap" id="_content" data-uid="CrizGames.Vour.DesktopPlayer">
   
   
-  <h1 id="Vour_TeleportPoint" data-uid="Vour.TeleportPoint" class="text-break">Class TeleportPoint
+  <h1 id="CrizGames_Vour_DesktopPlayer" data-uid="CrizGames.Vour.DesktopPlayer" class="text-break">Class DesktopPlayer
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>DesktopPlayer</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -83,29 +84,50 @@
     <div class="level2"><span class="xref">UnityEngine.Component</span></div>
     <div class="level3"><span class="xref">UnityEngine.Behaviour</span></div>
     <div class="level4"><span class="xref">UnityEngine.MonoBehaviour</span></div>
-    <div class="level5"><a class="xref" href="Vour.Interactable.html">Interactable</a></div>
-    <div class="level6"><span class="xref">TeleportPoint</span></div>
+    <div class="level5"><a class="xref" href="CrizGames.Vour.PlayerBase.html">PlayerBase</a></div>
+    <div class="level6"><span class="xref">DesktopPlayer</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
     <div>
-      <a class="xref" href="Vour.Interactable.html#Vour_Interactable_PointerOverObj">Interactable.PointerOverObj</a>
+      <a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_Instance">PlayerBase.Instance</a>
+    </div>
+    <div>
+      <a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_CurrentInteractable">PlayerBase.CurrentInteractable</a>
+    </div>
+    <div>
+      <a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_PointerPos">PlayerBase.PointerPos</a>
+    </div>
+    <div>
+      <a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_yOffset">PlayerBase.yOffset</a>
+    </div>
+    <div>
+      <a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_RaycastInteractable_UnityEngine_Vector3_UnityEngine_Vector3_">PlayerBase.RaycastInteractable(Vector3, Vector3)</a>
+    </div>
+    <div>
+      <a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_UpdateInteractable_CrizGames_Vour_Interactable_">PlayerBase.UpdateInteractable(Interactable)</a>
+    </div>
+    <div>
+      <a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_SetCenterCam_System_Boolean_">PlayerBase.SetCenterCam(Boolean)</a>
+    </div>
+    <div>
+      <a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_GetCenterCam">PlayerBase.GetCenterCam()</a>
     </div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="Vour.html">Vour</a></h6>
-  <h6><strong>Assembly</strong>: Assembly-CSharp.dll</h6>
-  <h5 id="Vour_TeleportPoint_syntax">Syntax</h5>
+  <h6><strong>Namespace</strong>: <a class="xref" href="CrizGames.Vour.html">CrizGames.Vour</a></h6>
+  <h6><strong>Assembly</strong>: CrizGames.Vour.dll</h6>
+  <h5 id="CrizGames_Vour_DesktopPlayer_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class TeleportPoint : Interactable</code></pre>
+    <pre><code class="lang-csharp hljs">public class DesktopPlayer : PlayerBase</code></pre>
   </div>
   <h3 id="fields">Fields
   </h3>
-  <h4 id="Vour_TeleportPoint_TargetLocation" data-uid="Vour.TeleportPoint.TargetLocation">TargetLocation</h4>
+  <h4 id="CrizGames_Vour_DesktopPlayer_MouseSensitivity" data-uid="CrizGames.Vour.DesktopPlayer.MouseSensitivity">MouseSensitivity</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public Location TargetLocation</code></pre>
+    <pre><code class="lang-csharp hljs">public float MouseSensitivity</code></pre>
   </div>
   <h5 class="fieldValue">Field Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -117,86 +139,52 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="Vour.Location.html">Location</a></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <h4 id="Vour_TeleportPoint_teleportType" data-uid="Vour.TeleportPoint.teleportType">teleportType</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public TeleportPoint.TeleportType teleportType</code></pre>
-  </div>
-  <h5 class="fieldValue">Field Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="Vour.TeleportPoint.TeleportType.html">TeleportPoint.TeleportType</a></td>
+        <td><span class="xref">System.Single</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
   <h3 id="methods">Methods
   </h3>
-  <a id="Vour_TeleportPoint_Awake_" data-uid="Vour.TeleportPoint.Awake*"></a>
-  <h4 id="Vour_TeleportPoint_Awake" data-uid="Vour.TeleportPoint.Awake">Awake()</h4>
-  <div class="markdown level1 summary"><p>Awake</p>
-</div>
+  <a id="CrizGames_Vour_DesktopPlayer_Init_" data-uid="CrizGames.Vour.DesktopPlayer.Init*"></a>
+  <h4 id="CrizGames_Vour_DesktopPlayer_Init" data-uid="CrizGames.Vour.DesktopPlayer.Init">Init()</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public virtual void Awake()</code></pre>
-  </div>
-  <a id="Vour_TeleportPoint_Interact_" data-uid="Vour.TeleportPoint.Interact*"></a>
-  <h4 id="Vour_TeleportPoint_Interact" data-uid="Vour.TeleportPoint.Interact">Interact()</h4>
-  <div class="markdown level1 summary"><p>Interact</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public override void Interact()</code></pre>
+    <pre><code class="lang-csharp hljs">public override void Init()</code></pre>
   </div>
   <h5 class="overrides">Overrides</h5>
-  <div><a class="xref" href="Vour.Interactable.html#Vour_Interactable_Interact">Interactable.Interact()</a></div>
-  <a id="Vour_TeleportPoint_OnPointerOverObjEnter_" data-uid="Vour.TeleportPoint.OnPointerOverObjEnter*"></a>
-  <h4 id="Vour_TeleportPoint_OnPointerOverObjEnter" data-uid="Vour.TeleportPoint.OnPointerOverObjEnter">OnPointerOverObjEnter()</h4>
-  <div class="markdown level1 summary"><p>OnPointerOverObjEnter</p>
+  <div><a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_Init">PlayerBase.Init()</a></div>
+  <a id="CrizGames_Vour_DesktopPlayer_LateUpdate_" data-uid="CrizGames.Vour.DesktopPlayer.LateUpdate*"></a>
+  <h4 id="CrizGames_Vour_DesktopPlayer_LateUpdate" data-uid="CrizGames.Vour.DesktopPlayer.LateUpdate">LateUpdate()</h4>
+  <div class="markdown level1 summary"><p>LateUpdate</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public override void OnPointerOverObjEnter()</code></pre>
+    <pre><code class="lang-csharp hljs">public virtual void LateUpdate()</code></pre>
+  </div>
+  <a id="CrizGames_Vour_DesktopPlayer_Look_" data-uid="CrizGames.Vour.DesktopPlayer.Look*"></a>
+  <h4 id="CrizGames_Vour_DesktopPlayer_Look" data-uid="CrizGames.Vour.DesktopPlayer.Look">Look()</h4>
+  <div class="markdown level1 summary"><p>Look</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Look()</code></pre>
+  </div>
+  <a id="CrizGames_Vour_DesktopPlayer_ResetRotation_" data-uid="CrizGames.Vour.DesktopPlayer.ResetRotation*"></a>
+  <h4 id="CrizGames_Vour_DesktopPlayer_ResetRotation" data-uid="CrizGames.Vour.DesktopPlayer.ResetRotation">ResetRotation()</h4>
+  <div class="markdown level1 summary"><p>ResetRotation</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override void ResetRotation()</code></pre>
   </div>
   <h5 class="overrides">Overrides</h5>
-  <div><a class="xref" href="Vour.Interactable.html#Vour_Interactable_OnPointerOverObjEnter">Interactable.OnPointerOverObjEnter()</a></div>
-  <a id="Vour_TeleportPoint_OnPointerOverObjExit_" data-uid="Vour.TeleportPoint.OnPointerOverObjExit*"></a>
-  <h4 id="Vour_TeleportPoint_OnPointerOverObjExit" data-uid="Vour.TeleportPoint.OnPointerOverObjExit">OnPointerOverObjExit()</h4>
-  <div class="markdown level1 summary"><p>OnPointerOverObjExit</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public override void OnPointerOverObjExit()</code></pre>
-  </div>
-  <h5 class="overrides">Overrides</h5>
-  <div><a class="xref" href="Vour.Interactable.html#Vour_Interactable_OnPointerOverObjExit">Interactable.OnPointerOverObjExit()</a></div>
-  <a id="Vour_TeleportPoint_Teleport_" data-uid="Vour.TeleportPoint.Teleport*"></a>
-  <h4 id="Vour_TeleportPoint_Teleport" data-uid="Vour.TeleportPoint.Teleport">Teleport()</h4>
-  <div class="markdown level1 summary"><p>Teleport</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void Teleport()</code></pre>
-  </div>
+  <div><a class="xref" href="CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_ResetRotation">PlayerBase.ResetRotation()</a></div>
 </article>
           </div>
           

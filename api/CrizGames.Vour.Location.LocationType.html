@@ -5,9 +5,11 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Structure of Vour </title>
+    <title>Enum Location.LocationType
+   </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Structure of Vour ">
+    <meta name="title" content="Enum Location.LocationType
+   ">
     <meta name="generator" content="docfx 2.56.5.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
@@ -67,26 +69,71 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="">
-<h1 id="structure-of-vour">Structure of Vour</h1>
-
-<h3 id="1-location-manager">1. Location Manager</h3>
-<p>The Location Manager manages which locations should be activated and which location is activated first.
-Since it contains all meshes &amp; components to visualize the images/videos, it also manages the activation of these meshes &amp; components.</p>
-<h3 id="2-player">2. Player</h3>
-<p>The player prefab automatically instantiates the PC or VR player. When the <em>Center Camera</em> option is enabled, the camera will always stay at (0, 0, 0). If you want to just have the PC player or just the VR player, get the prefab at <strong>Assets</strong> &gt; <strong>Vour</strong> &gt; <strong>Prefabs</strong> &gt; <strong>Players</strong> and replace the player prefab with it.</p>
-<div class="NOTE">
-<h5>Note</h5>
-<p>The player prefab has to be placed on the ground if you have <em>Center Camera</em> disabled because it has a 1.7m Y-offset when in PC mode (which you can edit in the prefab), and floor tracking is enabled in VR.</p>
-</div>
-<h3 id="3-locations">3. Locations</h3>
-<p>Locations contain data of your video/image and other stuff like Teleport Points, Info Points or custom objects. For more info, look <a href="locations/location_types.html">here</a>.</p>
-<h3 id="4-teleport-points">4. Teleport Points</h3>
-<p>Teleport Points are placed in a Location in 3D space. For example, you can place it so that it looks like it is on the ground in a 360° location. You can add a Teleport Point by clicking on the button in the Location object. <br>
-<img src="../images/teleport_point.jpg" width="500"></p>
-<h3 id="5-info-points">5. Info Points</h3>
-<p>Info Points can display a short text and a image on the left or right side. You can add a Info Point by clicking on the button in the Location object. <br>
-<img src="../images/info_point.jpg" width="500"></p>
+            <article class="content wrap" id="_content" data-uid="CrizGames.Vour.Location.LocationType">
+  
+  
+  <h1 id="CrizGames_Vour_Location_LocationType" data-uid="CrizGames.Vour.Location.LocationType" class="text-break">Enum Location.LocationType
+  </h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="CrizGames.Vour.html">CrizGames.Vour</a></h6>
+  <h6><strong>Assembly</strong>: CrizGames.Vour.dll</h6>
+  <h5 id="CrizGames_Vour_Location_LocationType_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public enum LocationType</code></pre>
+  </div>
+  <h3 id="fields">Fields
+  </h3>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    <thead>
+    <tbody>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Empty">Empty</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Image">Image</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Image360">Image360</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Image3D">Image3D</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Image3D360">Image3D360</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Scene">Scene</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Video">Video</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Video360">Video360</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Video3D">Video3D</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td id="CrizGames_Vour_Location_LocationType_Video3D360">Video3D360</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </thead></thead></table>
 </article>
           </div>
           

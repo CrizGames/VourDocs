@@ -5,338 +5,266 @@
   "files": [
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.DesktopPlayer.yml",
+      "source_relative_path": "api/CrizGames.Vour.DesktopPlayer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.DesktopPlayer.html",
-          "hash": "LZyCVRY7mKIPyRhGRKdz+A=="
+          "relative_path": "api/CrizGames.Vour.DesktopPlayer.html",
+          "hash": "qn3JzUlGowQVtvY4eT6MeQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.EditorTools.yml",
+      "source_relative_path": "api/CrizGames.Vour.EmptyLocation.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.EditorTools.html",
-          "hash": "Ha45Nn6/pD22UCc0HM9EYg=="
+          "relative_path": "api/CrizGames.Vour.EmptyLocation.html",
+          "hash": "uriPonSK+TSQHslYlzkDYA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.EmptyLocation.yml",
+      "source_relative_path": "api/CrizGames.Vour.ImageLocation.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.EmptyLocation.html",
-          "hash": "TRl4gEqMp0fBcAyoikhBag=="
+          "relative_path": "api/CrizGames.Vour.ImageLocation.html",
+          "hash": "Fn4ErzQ5Kn448DIDvszzfA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.ImageLocation.yml",
+      "source_relative_path": "api/CrizGames.Vour.InfoPoint.InfoPanelImageType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.ImageLocation.html",
-          "hash": "0MyvI4RGiy8uFRnrlMb/KQ=="
+          "relative_path": "api/CrizGames.Vour.InfoPoint.InfoPanelImageType.html",
+          "hash": "dEuB8fM3g3p8Qm8M31iS3Q=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.InfoPoint.InfoPanelImageType.yml",
+      "source_relative_path": "api/CrizGames.Vour.InfoPoint.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.InfoPoint.InfoPanelImageType.html",
-          "hash": "fgd5wSQ/WH92sBE1H1n4xA=="
+          "relative_path": "api/CrizGames.Vour.InfoPoint.html",
+          "hash": "T241evxy9NoJf+SiQz8W7A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.InfoPoint.yml",
+      "source_relative_path": "api/CrizGames.Vour.Interactable.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.InfoPoint.html",
-          "hash": "ofh2joXbBh+BH3l/2FZ6UQ=="
+          "relative_path": "api/CrizGames.Vour.Interactable.html",
+          "hash": "TOo1gLHmcGm2RK4WXJkAAg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.InfoPointEditor.yml",
+      "source_relative_path": "api/CrizGames.Vour.Location.LocationType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.InfoPointEditor.html",
-          "hash": "oTsCuAx6zpjh8uncPFTvcA=="
+          "relative_path": "api/CrizGames.Vour.Location.LocationType.html",
+          "hash": "tf7qp5t1cGBS/HudkZJ+tQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.Interactable.yml",
+      "source_relative_path": "api/CrizGames.Vour.Location.VideoType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.Interactable.html",
-          "hash": "B3mNpOchxtCYgzjZ42gWWA=="
+          "relative_path": "api/CrizGames.Vour.Location.VideoType.html",
+          "hash": "EAPudqONeHBIxxP0upBOTA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.Location.LocationType.yml",
+      "source_relative_path": "api/CrizGames.Vour.Location._3DLayout.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.Location.LocationType.html",
-          "hash": "3c3xYNa1Fhx7y2VttlSwFw=="
+          "relative_path": "api/CrizGames.Vour.Location._3DLayout.html",
+          "hash": "+VlgHlthiLHBRR2pWaW0Qg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.Location.VideoType.yml",
+      "source_relative_path": "api/CrizGames.Vour.Location.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.Location.VideoType.html",
-          "hash": "697/agjsPtGEtqsCfUmxZA=="
+          "relative_path": "api/CrizGames.Vour.Location.html",
+          "hash": "bTIMf5cBqQcSaBgxCXTnRw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.Location._3DLayout.yml",
+      "source_relative_path": "api/CrizGames.Vour.LocationBase.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.Location._3DLayout.html",
-          "hash": "8vA/dbuqAGD8RCHxoWB9Mw=="
+          "relative_path": "api/CrizGames.Vour.LocationBase.html",
+          "hash": "k8880OJir0s/ZjwtKG19IQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.Location.yml",
+      "source_relative_path": "api/CrizGames.Vour.LocationManager.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.Location.html",
-          "hash": "KvLVgAOYNtjPFDJ0AUoCug=="
+          "relative_path": "api/CrizGames.Vour.LocationManager.html",
+          "hash": "GuMgKFQmEB1iotnNDAEjHQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.LocationBase.yml",
+      "source_relative_path": "api/CrizGames.Vour.MediaLocation.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.LocationBase.html",
-          "hash": "OY0enIViV5XBHJQ7i9mqHg=="
+          "relative_path": "api/CrizGames.Vour.MediaLocation.html",
+          "hash": "3k5VR/f5g5E++regDSjpoQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.LocationEditor.yml",
+      "source_relative_path": "api/CrizGames.Vour.OculusPlayer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.LocationEditor.html",
-          "hash": "EQm9sjiovwS10B8tCm4xtw=="
+          "relative_path": "api/CrizGames.Vour.OculusPlayer.html",
+          "hash": "W/1oCiamjcjL/vuaJBJUMg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.LocationManager.yml",
+      "source_relative_path": "api/CrizGames.Vour.Player.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.LocationManager.html",
-          "hash": "bPQZqBLWJUgNHV/dN9ZDmg=="
+          "relative_path": "api/CrizGames.Vour.Player.html",
+          "hash": "/u6ZxQkHFCunCB8wwOgxEw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.LocationManagerEditor.yml",
+      "source_relative_path": "api/CrizGames.Vour.PlayerBase.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.LocationManagerEditor.html",
-          "hash": "4YNwSwcek1z8mJ2+Dwpa0A=="
+          "relative_path": "api/CrizGames.Vour.PlayerBase.html",
+          "hash": "ORNhyWAvpHPYFLd/Wh2rRw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.MediaLocation.yml",
+      "source_relative_path": "api/CrizGames.Vour.SceneLocation.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.MediaLocation.html",
-          "hash": "9JHMjQ8JemQ83VZuo4s3sQ=="
+          "relative_path": "api/CrizGames.Vour.SceneLocation.html",
+          "hash": "e+tOPZQk2+aiQXg4kqtKmw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.OculusPlayer.yml",
+      "source_relative_path": "api/CrizGames.Vour.TeleportArea.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.OculusPlayer.html",
-          "hash": "1JJMSl1NCSne27TxUUxXWQ=="
+          "relative_path": "api/CrizGames.Vour.TeleportArea.html",
+          "hash": "35bKxcLP0YiP78M6es2JHA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.Player.yml",
+      "source_relative_path": "api/CrizGames.Vour.TeleportPoint.TeleportType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.Player.html",
-          "hash": "tlvbdCG5EzzDw1H73C6i0g=="
+          "relative_path": "api/CrizGames.Vour.TeleportPoint.TeleportType.html",
+          "hash": "eod8uCp4My9nPNtghjB1Yw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.PlayerBase.yml",
+      "source_relative_path": "api/CrizGames.Vour.TeleportPoint.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.PlayerBase.html",
-          "hash": "mH2YE4oVZYbp9PCzZ1QYkw=="
+          "relative_path": "api/CrizGames.Vour.TeleportPoint.html",
+          "hash": "Dah9MwAsuuP9AdF2b+TNpA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.PlayerEditor.yml",
+      "source_relative_path": "api/CrizGames.Vour.VideoLocation.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.PlayerEditor.html",
-          "hash": "x/zFzUaGK27Kb7gR0hzSUQ=="
+          "relative_path": "api/CrizGames.Vour.VideoLocation.html",
+          "hash": "Pl6v92yNqmjZqzXT9+vT4w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Vour.SceneLocation.yml",
+      "source_relative_path": "api/CrizGames.Vour.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Vour.SceneLocation.html",
-          "hash": "izsCUvFNuDChqS+U/VA7Lw=="
+          "relative_path": "api/CrizGames.Vour.html",
+          "hash": "HjlrP/qfnmwrZte/jTI5sA=="
         }
       },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Vour.TeleportArea.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Vour.TeleportArea.html",
-          "hash": "uFiVP/f1Cz1L+NjN2I0Qyg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Vour.TeleportPoint.TeleportType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Vour.TeleportPoint.TeleportType.html",
-          "hash": "e+C3FagTfZSmg6AADOKWWw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Vour.TeleportPoint.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Vour.TeleportPoint.html",
-          "hash": "Fa2EGp8ec0XjOHj+2x0cPQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Vour.TeleportPointEditor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Vour.TeleportPointEditor.html",
-          "hash": "z/CuJyLjkR5SHOaeDXkljA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Vour.VideoLocation.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Vour.VideoLocation.html",
-          "hash": "av/N7T5BLnjqm+Si1xwAKw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Vour.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Vour.html",
-          "hash": "uacw9WlWbStTjgYpsnKOjw=="
-        }
-      },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -348,7 +276,7 @@
           "hash": "9fl0QbtJpZ7ZP9RqLj5CUw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -357,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "Lge7vuhcHcMO5iahBsBfTA=="
+          "hash": "55lbFtQ1EZ5eDydS+HKb+A=="
         }
       },
       "is_incremental": false,
@@ -427,7 +355,7 @@
           "hash": "0jTPrSWIX9tp+p/pkmsGzQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -436,10 +364,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/components_of_vour.html",
-          "hash": "rJFAHIklYiR8AgzF/+74iA=="
+          "hash": "QZjA8jN4a6RLvYEV/8/neQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -448,10 +376,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/getting_started.html",
-          "hash": "pTxrqxYisNGXa4IVEU4acw=="
+          "hash": "2uLs0dLYp0FKCwruz4TtxA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -463,7 +391,7 @@
           "hash": "U+VfEl7c/HWYVF5zZjaeFQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -475,7 +403,7 @@
           "hash": "ewWcm2PAYnGY3+ntjjuzZg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -487,7 +415,7 @@
           "hash": "sU3GF+VnaLSqTZ49JeqVLA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -508,7 +436,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "iXGPElnbyLleIeIiibpugg=="
+          "hash": "t8szb0MaX++CaJxMPOd4kw=="
         }
       },
       "is_incremental": false,
@@ -518,25 +446,23 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because config changed.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "ConfigChanged"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 7,
-          "skipped_file_count": 0
+          "skipped_file_count": 7
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 28,
-          "skipped_file_count": 0
+          "total_file_count": 22,
+          "skipped_file_count": 22
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
