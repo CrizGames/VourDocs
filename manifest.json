@@ -9,10 +9,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.DesktopPlayer.html",
-          "hash": "qn3JzUlGowQVtvY4eT6MeQ=="
+          "hash": "Bq4J9O+nVvJ7hOOMeSxsng=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -21,10 +21,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.EmptyLocation.html",
-          "hash": "uriPonSK+TSQHslYlzkDYA=="
+          "hash": "+sSyFa2Swx+vHdufNbclLg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.ImageLocation.html",
-          "hash": "Fn4ErzQ5Kn448DIDvszzfA=="
+          "hash": "sl/xL9BEqky8mVurfe9UdQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.InfoPoint.InfoPanelImageType.html",
-          "hash": "dEuB8fM3g3p8Qm8M31iS3Q=="
+          "hash": "Dpc3F/Pk+yFHe4oJGq7ekg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.InfoPoint.html",
-          "hash": "T241evxy9NoJf+SiQz8W7A=="
+          "hash": "DlWAmV+Y0ID5IUldj76JOg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -69,10 +69,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.Interactable.html",
-          "hash": "TOo1gLHmcGm2RK4WXJkAAg=="
+          "hash": "ovn/06qCZzu6575+4sjVig=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +81,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.Location.LocationType.html",
-          "hash": "tf7qp5t1cGBS/HudkZJ+tQ=="
+          "hash": "xj4mjbnzoP59L590zg8kFA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,10 +93,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.Location.VideoType.html",
-          "hash": "EAPudqONeHBIxxP0upBOTA=="
+          "hash": "qWtG5VRFGPhsOMxnK8ZA2A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -105,10 +105,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.Location._3DLayout.html",
-          "hash": "+VlgHlthiLHBRR2pWaW0Qg=="
+          "hash": "4rscRL610foz+RjaeyPh0A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -117,10 +117,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.Location.html",
-          "hash": "bTIMf5cBqQcSaBgxCXTnRw=="
+          "hash": "F3iO7Qx4leFWg3IplHos4w=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -129,10 +129,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.LocationBase.html",
-          "hash": "k8880OJir0s/ZjwtKG19IQ=="
+          "hash": "4eRIYZNXWEo0z3yTMeXyhg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -141,10 +141,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.LocationManager.html",
-          "hash": "GuMgKFQmEB1iotnNDAEjHQ=="
+          "hash": "11EUIUBYtt3/qAG7rrZRqQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -153,10 +153,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.MediaLocation.html",
-          "hash": "3k5VR/f5g5E++regDSjpoQ=="
+          "hash": "XzrHsEdOLyle9XmLMErgog=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -165,10 +165,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.OculusPlayer.html",
-          "hash": "W/1oCiamjcjL/vuaJBJUMg=="
+          "hash": "TFa+9dfjRCwcRmpZLYMzVw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -177,10 +177,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.Player.html",
-          "hash": "/u6ZxQkHFCunCB8wwOgxEw=="
+          "hash": "aPQqxh26cYHDTJCLmVZTIA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -189,10 +189,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.PlayerBase.html",
-          "hash": "ORNhyWAvpHPYFLd/Wh2rRw=="
+          "hash": "rKfb74trnwj0bi1sKstpLw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -201,10 +201,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.SceneLocation.html",
-          "hash": "e+tOPZQk2+aiQXg4kqtKmw=="
+          "hash": "xNxl7X+DgE4PHkNX+yjDeQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -213,10 +213,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.TeleportArea.html",
-          "hash": "35bKxcLP0YiP78M6es2JHA=="
+          "hash": "w5DOaq/md1tfUqmnNzivmQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -225,10 +225,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.TeleportPoint.TeleportType.html",
-          "hash": "eod8uCp4My9nPNtghjB1Yw=="
+          "hash": "b9TPRKlkgN5PbD4NV4XAVg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -237,10 +237,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.TeleportPoint.html",
-          "hash": "Dah9MwAsuuP9AdF2b+TNpA=="
+          "hash": "+vik7bO3Rk4uuDTMViZQUw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -249,10 +249,10 @@
       "output": {
         ".html": {
           "relative_path": "api/CrizGames.Vour.VideoLocation.html",
-          "hash": "Pl6v92yNqmjZqzXT9+vT4w=="
+          "hash": "MHoBQSiryMijB0a32Zgx3A=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -264,7 +264,7 @@
           "hash": "HjlrP/qfnmwrZte/jTI5sA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -276,7 +276,7 @@
           "hash": "9fl0QbtJpZ7ZP9RqLj5CUw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -355,7 +355,7 @@
           "hash": "0jTPrSWIX9tp+p/pkmsGzQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -367,7 +367,7 @@
           "hash": "QZjA8jN4a6RLvYEV/8/neQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -376,10 +376,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/getting_started.html",
-          "hash": "2uLs0dLYp0FKCwruz4TtxA=="
+          "hash": "rQAW72hee/VsMU1r22rRHA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -391,7 +391,7 @@
           "hash": "U+VfEl7c/HWYVF5zZjaeFQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -400,10 +400,10 @@
       "output": {
         ".html": {
           "relative_path": "manual/locations/location_types.html",
-          "hash": "ewWcm2PAYnGY3+ntjjuzZg=="
+          "hash": "S5NaDOvn4HW/9HSa3SOEvw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -415,7 +415,7 @@
           "hash": "sU3GF+VnaLSqTZ49JeqVLA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -446,23 +446,25 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because config changed.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ConfigChanged"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 7,
-          "skipped_file_count": 7
+          "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 22,
-          "skipped_file_count": 22
+          "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
