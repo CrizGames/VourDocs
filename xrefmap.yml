@@ -808,13 +808,13 @@ references:
   commentId: F:CrizGames.Vour.MediaLocation._3D
   fullName: CrizGames.Vour.MediaLocation._3D
   nameWithType: MediaLocation._3D
-- uid: CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32,Vector2@,Vector2@)
+- uid: CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32,UnityEngine.Vector2@,UnityEngine.Vector2@)
   name: GetScaleAndOffset(Int32, out Vector2, out Vector2)
-  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_GetScaleAndOffset_System_Int32_Vector2__Vector2__
-  commentId: M:CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32,Vector2@,Vector2@)
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_GetScaleAndOffset_System_Int32_UnityEngine_Vector2__UnityEngine_Vector2__
+  commentId: M:CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32,UnityEngine.Vector2@,UnityEngine.Vector2@)
   name.vb: GetScaleAndOffset(Int32, ByRef Vector2, ByRef Vector2)
-  fullName: CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32, out Vector2, out Vector2)
-  fullName.vb: CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32, ByRef Vector2, ByRef Vector2)
+  fullName: CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32, out UnityEngine.Vector2, out UnityEngine.Vector2)
+  fullName.vb: CrizGames.Vour.MediaLocation.GetScaleAndOffset(System.Int32, ByRef UnityEngine.Vector2, ByRef UnityEngine.Vector2)
   nameWithType: MediaLocation.GetScaleAndOffset(Int32, out Vector2, out Vector2)
   nameWithType.vb: MediaLocation.GetScaleAndOffset(Int32, ByRef Vector2, ByRef Vector2)
 - uid: CrizGames.Vour.MediaLocation.GetScaleAndOffset*
@@ -868,11 +868,11 @@ references:
   commentId: F:CrizGames.Vour.MediaLocation.RotateToCamDir
   fullName: CrizGames.Vour.MediaLocation.RotateToCamDir
   nameWithType: MediaLocation.RotateToCamDir
-- uid: CrizGames.Vour.MediaLocation.SetMedia(Texture)
+- uid: CrizGames.Vour.MediaLocation.SetMedia(UnityEngine.Texture)
   name: SetMedia(Texture)
-  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_SetMedia_Texture_
-  commentId: M:CrizGames.Vour.MediaLocation.SetMedia(Texture)
-  fullName: CrizGames.Vour.MediaLocation.SetMedia(Texture)
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_SetMedia_UnityEngine_Texture_
+  commentId: M:CrizGames.Vour.MediaLocation.SetMedia(UnityEngine.Texture)
+  fullName: CrizGames.Vour.MediaLocation.SetMedia(UnityEngine.Texture)
   nameWithType: MediaLocation.SetMedia(Texture)
 - uid: CrizGames.Vour.MediaLocation.SetMedia*
   name: SetMedia
@@ -887,11 +887,11 @@ references:
   commentId: F:CrizGames.Vour.MediaLocation.Size
   fullName: CrizGames.Vour.MediaLocation.Size
   nameWithType: MediaLocation.Size
-- uid: CrizGames.Vour.MediaLocation.UpdateSize(Vector2)
+- uid: CrizGames.Vour.MediaLocation.UpdateSize(UnityEngine.Vector2)
   name: UpdateSize(Vector2)
-  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_UpdateSize_Vector2_
-  commentId: M:CrizGames.Vour.MediaLocation.UpdateSize(Vector2)
-  fullName: CrizGames.Vour.MediaLocation.UpdateSize(Vector2)
+  href: api/CrizGames.Vour.MediaLocation.html#CrizGames_Vour_MediaLocation_UpdateSize_UnityEngine_Vector2_
+  commentId: M:CrizGames.Vour.MediaLocation.UpdateSize(UnityEngine.Vector2)
+  fullName: CrizGames.Vour.MediaLocation.UpdateSize(UnityEngine.Vector2)
   nameWithType: MediaLocation.UpdateSize(Vector2)
 - uid: CrizGames.Vour.MediaLocation.UpdateSize*
   name: UpdateSize
@@ -1049,11 +1049,11 @@ references:
   commentId: F:CrizGames.Vour.PlayerBase.PointerPos
   fullName: CrizGames.Vour.PlayerBase.PointerPos
   nameWithType: PlayerBase.PointerPos
-- uid: CrizGames.Vour.PlayerBase.RaycastInteractable(Vector3,Vector3)
+- uid: CrizGames.Vour.PlayerBase.RaycastInteractable(UnityEngine.Vector3,UnityEngine.Vector3)
   name: RaycastInteractable(Vector3, Vector3)
-  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_RaycastInteractable_Vector3_Vector3_
-  commentId: M:CrizGames.Vour.PlayerBase.RaycastInteractable(Vector3,Vector3)
-  fullName: CrizGames.Vour.PlayerBase.RaycastInteractable(Vector3, Vector3)
+  href: api/CrizGames.Vour.PlayerBase.html#CrizGames_Vour_PlayerBase_RaycastInteractable_UnityEngine_Vector3_UnityEngine_Vector3_
+  commentId: M:CrizGames.Vour.PlayerBase.RaycastInteractable(UnityEngine.Vector3,UnityEngine.Vector3)
+  fullName: CrizGames.Vour.PlayerBase.RaycastInteractable(UnityEngine.Vector3, UnityEngine.Vector3)
   nameWithType: PlayerBase.RaycastInteractable(Vector3, Vector3)
 - uid: CrizGames.Vour.PlayerBase.RaycastInteractable*
   name: RaycastInteractable
